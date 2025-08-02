@@ -28,3 +28,4 @@ A dynamic and responsive **YouTube Clone** web app built with **React.js**, fetc
 - 🔁 Recommended Videos Sidebar
 - ⏳ Loading Animations while fetching data
 - 📱 Fully Responsive Design (mobile, tablet, desktop)
+
