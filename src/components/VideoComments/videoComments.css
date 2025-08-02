@@ -1,0 +1,203 @@
+/* comments css */
+
+.comment-main-container {
+    border-top: rgb(167, 163, 163) solid 1px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1.8rem;
+    width: 922px;
+    height: auto;
+    margin-left: 70px;
+    margin-top:20px;
+    padding-top:30px;
+}
+
+.comment-container {
+    display: flex;
+    column-gap: 15px;
+}
+
+.channel-name-for-comment {
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+
+}
+
+.details-about-comment{
+    display:flex;
+    flex-direction:column;
+    row-gap:7px;
+}
+
+.profile-image-on-comment {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12), 0 1.5px 4px rgba(0, 0, 0, 0.10);
+    margin-top: -10px;
+}
+
+.name-of-channel {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.time-after-posted {
+    font-size: 0.8rem;
+    color: rgb(75, 72, 72);
+}
+
+.comment-content {
+    font-size: 0.9rem;
+    color:rgb(68, 67, 67);
+}
+
+.comment-like-dislike {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+}
+
+.like-with-count-container {
+    display: flex;
+    align-items: center;
+
+}
+
+.like-icon-comment{
+ font-size: 1.2rem;
+}
+
+.dislike-icon-comment{
+ font-size: 1.2rem;
+}
+
+.like-count-comment{
+ font-size: 0.8rem;
+}
+
+.total-comments{
+    font-size:1.3rem;
+    font-weight:700;
+}
+
+
+@media(forced-colors: active) ,(max-width:1050px){
+
+    
+.comment-main-container {
+    width: 90%;    
+}
+
+.comment-container {
+    display: flex;
+    column-gap: 1rem;
+}
+
+.channel-name-for-comment {
+    column-gap: 1.2rem;
+
+}
+
+.details-about-comment{
+    row-gap:9px;
+}
+
+.name-of-channel {
+    font-size: 1.2rem;
+}
+
+.time-after-posted {
+    font-size: 1rem;
+}
+
+.comment-content {
+    font-size: 1.2rem;
+}
+
+.comment-like-dislike {
+    column-gap: 1rem;
+}
+
+.like-icon-comment{
+ font-size: 1.2rem;
+}
+
+.dislike-icon-comment{
+ font-size: 1.2rem;
+}
+
+.like-count-comment{
+ font-size: 0.8rem;
+}
+
+.total-comments{
+    font-size:1.3rem;
+    font-weight:700;
+}
+}
+
+@media (forced-colors: active) ,(max-width:550px){
+       
+.comment-main-container {
+    width: 90%;  
+    margin-left:10px;
+}
+
+.name-of-channel {
+    font-size: 1rem;
+}
+
+.time-after-posted {
+    font-size: 1rem;
+}
+
+.comment-content {
+    font-size: 1rem;
+}
+
+}
+
+@media (max-width:380px){
+      
+.comment-main-container {
+    width: 85%;  
+    margin-left:10px;
+}
+
+.name-of-channel {
+    font-size: 0.8rem;
+}
+
+.time-after-posted {
+    font-size: 0.7rem;
+}
+
+.comment-content {
+    font-size: 0.8rem;
+}
+
+.comment-like-dislike {
+    column-gap: 1rem;
+}
+
+.like-icon-comment{
+ font-size: 1rem;
+}
+
+.dislike-icon-comment{
+ font-size: 1rem;
+}
+
+.like-count-comment{
+ font-size: 0.7rem;
+}
+
+.total-comments{
+    font-size:1rem;
+    font-weight:700;
+}
+
+
+}

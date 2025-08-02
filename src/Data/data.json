@@ -1,0 +1,1638 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "rnGkm3JjSbQgB2zZbjob8ix4Pcg",
+    "items": [ 
+        {
+            "kind": "youtube#video",
+            "etag": "RY1Xjpc81hAZVHrGSZUajsuPVUY",
+            "id": "Pr1OdTzZDpQ",
+            "snippet": {
+                "publishedAt": "2025-07-23T03:29:24Z",
+                "channelId": "UCHmk8iNJHvf5mGN6_pkPc7g",
+                "title": "EMIWAY BANTAI  - DUBAI COMPANY | (MUSIC BY. TONY JAMES ) | OFFICIAL MUSIC VIDEO",
+                "description": "Bfan link : https://bfan.link/dubai-company\n\nAudio Credits:\nSong : Dubai Company\nPerformed & Written by : Emiway Bantai \nMusic by : Tony James\nMix & Mastered by : Mix With Vasudev \n\n\nVideo Credits:\nProduction : Bantai Studio\nDirected by : Thrector,Emiway Bantai & Swaalina\nD.O.P : Thrector\nEdited by : Emiway Bantai & Thrector\nCc by : Thrector & VBreak\nVfx : Capboy Creation & VBreak \nCostume designer : Bantai Studio\nArtist Management : Pooja Kuila\nStunt Director : Samir Ahamed \nStunt by : Sayed Al Mehari\nHair Stylist : Aftab\nLine producer : Bantai Studio\nProduction Head : Pooja Kuila, Shubham Singh\nProduction Management : Shubham Singh\nWheels by : Rotana Star \nCast : Junaid, Manpreet, Gaston\nLocation Courtesy : The Zoo Wild Park Umm Al Quwain \n\nSpecial Thanks : \nSheikh Ahmed bin Nasser Al-Ma'ala, the special advisor to His Highness, the ruler of Umm AI-Qaywin… \nMohammad Moustafa, CEO Rotana Star\n\nDubai Company Streaming Link:\nSpotify: https://open.spotify.com/track/2WPrPbxLa6nmmc57neRHTT?si=7ba0d68b96944136\n\nApple Music: https://music.apple.com/us/song/dubai-company/1827975875\n\nYoutube Music: https://music.youtube.com/watch?v=i_9rDdE2Qxc&si=77UTXFqNYv3SwyZV\n\nAmazon Music: https://music.amazon.in/albums/B0FJ92G3XB?marketplaceId=A3K6Y4MI8GDYMT&musicTerritory=IN&ref=dm_sh_I5D2dEAMo3dUWoIbbskvVR5ht&trackAsin=B0FJ93RN67\n\nJio Saavn: https://www.jiosaavn.com/song/dubai-company/JFk6Y0J7Rlk\n\nGaana: https://gaana.com/song/dubai-company\n\nMerchandise here 👇🏻\nhttps://www.bantai.in/product-category/merchandise\n\n\n\nFollow Emiwaybantai :- \n\nInstagram / https://instagram.com/emiwaybantai?igshid=Zjc2ZTc4Nzk=\n\nTwitter / \nhttps://twitter.com/emiwaytweets?s=11&t=LTwkOm874W90GUY2E0M0Wg\n\nFacebook / https://www.facebook.com/emiwayofficial?mibextid=LQQJ4d",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pr1OdTzZDpQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pr1OdTzZDpQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pr1OdTzZDpQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pr1OdTzZDpQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pr1OdTzZDpQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Emiway Bantai",
+                "tags": [      
+                    "emiway bantai",
+                    "dubai company",
+                    "ftstts",
+                    "hip hop",
+                    "commercial",
+                    "independent",
+                    "ihh",
+                    "bantai ki public",
+                    "bkp",
+                    "emiway",
+                    "bantai"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "EMIWAY BANTAI  - DUBAI COMPANY | (MUSIC BY. TONY JAMES ) | OFFICIAL MUSIC VIDEO",
+                    "description": "Bfan link : https://bfan.link/dubai-company\n\nAudio Credits:\nSong : Dubai Company\nPerformed & Written by : Emiway Bantai \nMusic by : Tony James\nMix & Mastered by : Mix With Vasudev \n\n\nVideo Credits:\nProduction : Bantai Studio\nDirected by : Thrector,Emiway Bantai & Swaalina\nD.O.P : Thrector\nEdited by : Emiway Bantai & Thrector\nCc by : Thrector & VBreak\nVfx : Capboy Creation & VBreak \nCostume designer : Bantai Studio\nArtist Management : Pooja Kuila\nStunt Director : Samir Ahamed \nStunt by : Sayed Al Mehari\nHair Stylist : Aftab\nLine producer : Bantai Studio\nProduction Head : Pooja Kuila, Shubham Singh\nProduction Management : Shubham Singh\nWheels by : Rotana Star \nCast : Junaid, Manpreet, Gaston\nLocation Courtesy : The Zoo Wild Park Umm Al Quwain \n\nSpecial Thanks : \nSheikh Ahmed bin Nasser Al-Ma'ala, the special advisor to His Highness, the ruler of Umm AI-Qaywin… \nMohammad Moustafa, CEO Rotana Star\n\nDubai Company Streaming Link:\nSpotify: https://open.spotify.com/track/2WPrPbxLa6nmmc57neRHTT?si=7ba0d68b96944136\n\nApple Music: https://music.apple.com/us/song/dubai-company/1827975875\n\nYoutube Music: https://music.youtube.com/watch?v=i_9rDdE2Qxc&si=77UTXFqNYv3SwyZV\n\nAmazon Music: https://music.amazon.in/albums/B0FJ92G3XB?marketplaceId=A3K6Y4MI8GDYMT&musicTerritory=IN&ref=dm_sh_I5D2dEAMo3dUWoIbbskvVR5ht&trackAsin=B0FJ93RN67\n\nJio Saavn: https://www.jiosaavn.com/song/dubai-company/JFk6Y0J7Rlk\n\nGaana: https://gaana.com/song/dubai-company\n\nMerchandise here 👇🏻\nhttps://www.bantai.in/product-category/merchandise\n\n\n\nFollow Emiwaybantai :- \n\nInstagram / https://instagram.com/emiwaybantai?igshid=Zjc2ZTc4Nzk=\n\nTwitter / \nhttps://twitter.com/emiwaytweets?s=11&t=LTwkOm874W90GUY2E0M0Wg\n\nFacebook / https://www.facebook.com/emiwayofficial?mibextid=LQQJ4d"
+                },
+                "defaultAudioLanguage": "en-GB"
+            },
+            "contentDetails": {
+                "duration": "PT3M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {  
+                "viewCount": "2269216",
+                "likeCount": "266672",
+                "favoriteCount": "0",
+                "commentCount": "17313"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "CL61gyQk9OncxKnNhz0ivT3VbJE",
+            "id": "CllWVGWhOEs",
+            "snippet": {
+                "publishedAt": "2025-07-25T04:38:15Z",
+                "channelId": "UCbTLwN10NoCU4WDzLf1JMOA",
+                "title": "WAR 2 Official Trailer | Telugu | Hrithik Roshan, NTR, Kiara Advani, Ayan Mukerji | YRF Spy Universe",
+                "description": "Get ready for the storm, the WAR begins now! #War2Trailer (Telugu) is out!\n#War2 releasing in Hindi, Telugu & Tamil on August 14th in cinemas worldwide! #YRFSpyUniverse\n\n► Subscribe Now: https://goo.gl/xs3mrY 🔔 Stay updated!\n► YRF New Releases - https://www.youtube.com/playlist?list=PLCB05E03DA939D484\n\nStay in the filmy loop:\n► Like us on Facebook: Facebook/yrf \n► Follow us on X: x.com/yrf\n► Follow us on Instagram: Instagram/yrf\n► Visit us on: yashrajfilms.com\n\n🎬 MOVIE CREDITS:\nMovie: WAR 2\nStarring: Hrithik Roshan, NTR, Kiara Advani\nDirector: Ayan Mukerji\nProducer: Aditya Chopra\nCo-Producer: Akshaye Widhani\nScreenplay: Shridhar Raghavan\nDirector of Photography: Benjamin Jasper ACS \nMusic: Pritam\nLyrics: Amitabh Bhattacharya\nDialogues: Abbas Tyrewala\nStory: Aditya Chopra\nAssociate Producer: Rishabh Chopra\nExecutive Producer: Sanjay Shivalkar\nEditor: Aarif Sheikh\nProduction Designers: Rajat Poddar, Amrita Mahal Nakai\nSound: Dileep Subramaniam, Ganesh Gangadharan\nBackground Music: Sanchit Balhara, Ankit Balhara\nAction Directors: Spiro Razatos, Franz Spilhaus, Anl Arasu, Oh Sea Young, Craig Macrae, Sunil Rodrigues [ROD]\nCostume Designers: Anaita Shroff Adajania, Niharika Jolly\nDirector of Choreography: Bosco Leslie Martis\nVisual Effects Studio: yFX\nCasting Director: Shanoo Sharma\nSupervising Producer: Gurpreet Singh\nTrailers & Promos: Mohit Sajnaney\nRelease Date: 14 August 2025\n\nThe film will be available with audio descriptions and closed captioning.\n\nAbout YRF Spy Universe:\nYRF Spy Universe is a first of its kind cinematic universe of spy thriller films in India. The first film in the universe, \"Ek Tha Tiger\", starring Salman Khan and Katrina Kaif was released in 2012, followed by its sequel \"Tiger Zinda Hai\" in 2017. The third film in the universe, \"War\" was released in 2019 and starred Hrithik Roshan and Tiger Shroff in pivotal roles. \"Pathaan\" was the fourth instalment in the Spy Universe franchise which was released in 2023 starring Shah Rukh Khan, Deepika Padukone and John Abraham. \"Tiger 3\", the fifth instalment in the YRF Spy Universe and the third film in the Tiger series, starring Salman Khan, Katrina Kaif and Emraan Hashmi, released in 2023. \"War 2\" is the sixth film of the YRF Spy Universe franchise and will release on 14 August 2025. The film stars two of the greatest cinematic icons Hrithik Roshan and NTR, with Kiara Advani in the lead and is directed by Ayan Mukerji. “Alpha”, the seventh instalment in the franchise and Hindi cinema's first female-led YRF Spy Universe film, starring Alia Bhatt and Sharvari, is set to release on 25 December 2025.\n\n#yrfnewreleases #yrf #yashraj #yashrajfilms #yrfmovies #yrfmusic #adityachopra #hrithikroshan #ntr #kiaraadvani #ayanmukerji #pritam #amitabhbhattacharya #officialtrailer #bollywoodtrailer #war2trailertelugu\n\n© Yash Raj Films Pvt. Ltd.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CllWVGWhOEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CllWVGWhOEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CllWVGWhOEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CllWVGWhOEs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CllWVGWhOEs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YRF",
+                "tags": [
+                    "war 2 trailer",
+                    "war 2 official trailer",
+                    "war 2 movie trailer",
+                    "war 2 telugu trailer",
+                    "hrithik roshan trailer",
+                    "jr ntr trailer",
+                    "kiara advani trailer",
+                    "ntr hindi movie trailer",
+                    "hrithik and ntr war 2 trailer",
+                    "hrithik roshan new movie trailer",
+                    "war 2 trailer hrithik roshan",
+                    "yrf spy universe trailer",
+                    "war 2 fight scenes",
+                    "trailer 2025",
+                    "war 2 trailer hindi",
+                    "new telugu movie trailer",
+                    "latest telugu trailer",
+                    "yrf war trailer",
+                    "వార్ 2 ట్రైలర్",
+                    "జూనియర్ ఎన్టీఆర్ ట్రైలర్",
+                    "ఎన్టీఆర్ బాలీవుడ్ సినిమా"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "WAR 2 Official Trailer | Telugu | Hrithik Roshan, NTR, Kiara Advani, Ayan Mukerji | YRF Spy Universe",
+                    "description": "Get ready for the storm, the WAR begins now! #War2Trailer (Telugu) is out!\n#War2 releasing in Hindi, Telugu & Tamil on August 14th in cinemas worldwide! #YRFSpyUniverse\n\n► Subscribe Now: https://goo.gl/xs3mrY 🔔 Stay updated!\n► YRF New Releases - https://www.youtube.com/playlist?list=PLCB05E03DA939D484\n\nStay in the filmy loop:\n► Like us on Facebook: Facebook/yrf \n► Follow us on X: x.com/yrf\n► Follow us on Instagram: Instagram/yrf\n► Visit us on: yashrajfilms.com\n\n🎬 MOVIE CREDITS:\nMovie: WAR 2\nStarring: Hrithik Roshan, NTR, Kiara Advani\nDirector: Ayan Mukerji\nProducer: Aditya Chopra\nCo-Producer: Akshaye Widhani\nScreenplay: Shridhar Raghavan\nDirector of Photography: Benjamin Jasper ACS \nMusic: Pritam\nLyrics: Amitabh Bhattacharya\nDialogues: Abbas Tyrewala\nStory: Aditya Chopra\nAssociate Producer: Rishabh Chopra\nExecutive Producer: Sanjay Shivalkar\nEditor: Aarif Sheikh\nProduction Designers: Rajat Poddar, Amrita Mahal Nakai\nSound: Dileep Subramaniam, Ganesh Gangadharan\nBackground Music: Sanchit Balhara, Ankit Balhara\nAction Directors: Spiro Razatos, Franz Spilhaus, Anl Arasu, Oh Sea Young, Craig Macrae, Sunil Rodrigues [ROD]\nCostume Designers: Anaita Shroff Adajania, Niharika Jolly\nDirector of Choreography: Bosco Leslie Martis\nVisual Effects Studio: yFX\nCasting Director: Shanoo Sharma\nSupervising Producer: Gurpreet Singh\nTrailers & Promos: Mohit Sajnaney\nRelease Date: 14 August 2025\n\nThe film will be available with audio descriptions and closed captioning.\n\nAbout YRF Spy Universe:\nYRF Spy Universe is a first of its kind cinematic universe of spy thriller films in India. The first film in the universe, \"Ek Tha Tiger\", starring Salman Khan and Katrina Kaif was released in 2012, followed by its sequel \"Tiger Zinda Hai\" in 2017. The third film in the universe, \"War\" was released in 2019 and starred Hrithik Roshan and Tiger Shroff in pivotal roles. \"Pathaan\" was the fourth instalment in the Spy Universe franchise which was released in 2023 starring Shah Rukh Khan, Deepika Padukone and John Abraham. \"Tiger 3\", the fifth instalment in the YRF Spy Universe and the third film in the Tiger series, starring Salman Khan, Katrina Kaif and Emraan Hashmi, released in 2023. \"War 2\" is the sixth film of the YRF Spy Universe franchise and will release on 14 August 2025. The film stars two of the greatest cinematic icons Hrithik Roshan and NTR, with Kiara Advani in the lead and is directed by Ayan Mukerji. “Alpha”, the seventh instalment in the franchise and Hindi cinema's first female-led YRF Spy Universe film, starring Alia Bhatt and Sharvari, is set to release on 25 December 2025.\n\n#yrfnewreleases #yrf #yashraj #yashrajfilms #yrfmovies #yrfmusic #adityachopra #hrithikroshan #ntr #kiaraadvani #ayanmukerji #pritam #amitabhbhattacharya #officialtrailer #bollywoodtrailer #war2trailertelugu\n\n© Yash Raj Films Pvt. Ltd."
+                },
+                "defaultAudioLanguage": "te"
+            },
+            "contentDetails": {
+                "duration": "PT2M36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1079710",
+                "likeCount": "135768",
+                "favoriteCount": "0",
+                "commentCount": "7120"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-GXuS1KWP4bG8bhLWT1YfzFuZlo",
+            "id": "WlwDqJAfIT4",
+            "snippet": {
+                "publishedAt": "2025-07-24T03:30:20Z",
+                "channelId": "UCX8pnu3DYUnx8qy8V_c6oHg",
+                "title": "BUYING A NEW SPORTS CAR | CAR DEALER SIMULATOR GAMEPLAY #3",
+                "description": "BUYING A NEW SPORTS CAR | CAR DEALER SIMULATOR GAMEPLAY #3\n\n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WlwDqJAfIT4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WlwDqJAfIT4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WlwDqJAfIT4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WlwDqJAfIT4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WlwDqJAfIT4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Techno Gamerz",
+                "tags": [
+                    "car dealer",
+                    "car for sale",
+                    "car showroom",
+                    "dealership",
+                    "car build",
+                    "new game",
+                    "supercar",
+                    "lamborghini",
+                    "simulator",
+                    "funny",
+                    "ujjwal",
+                    "techno gamerz"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "BUYING A NEW SPORTS CAR | CAR DEALER SIMULATOR GAMEPLAY #3",
+                    "description": "BUYING A NEW SPORTS CAR | CAR DEALER SIMULATOR GAMEPLAY #3\n\n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.facebook.com/technogamerz\nFacebook Myself: https://www.facebook.com/ujjwalgamer\nInstagram: https://instagram.com/ujjwalgamer\nGoogle Plus: https://plus.google.com/+TechnoGamerzOfficial\nWebsite: https://technogamerz.in/\nMerchandise: https://shop.technogamerz.in/\n\n\nBusiness Email : technogamerzofficial@gmail.com\n\n\nAbout : Techno Gamerz is a YouTube Channel, where you will find gaming videos in Hindi, I hope this video was Useful and you liked it, if you did press the thumbs up button."
+                },
+                "defaultAudioLanguage": "en-IN"
+            },
+            "contentDetails": {
+                "duration": "PT42M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2164965",
+                "likeCount": "120080",
+                "favoriteCount": "0",
+                "commentCount": "7174"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0ZC_iN2gd0MPCnV5JXTL6P5L-ZA",
+            "id": "EVEeE68DAr0",
+            "snippet": {
+                "publishedAt": "2025-07-21T13:04:33Z",
+                "channelId": "UCjEXVxz85__ljhVt477jtLw",
+                "title": "Dashamaa No Thal - Full Video | Rohit Thakor New Dashamaa 2025 | Mataji No Thal",
+                "description": "#Rohit_Thakor_Official\n\nSong: Dashamaa No Thal\nSinger: Rohit Thakor\nLyrics: Sandip Talpada \nMusic: Sunil Thakor, Jagdish Thakor\nRecording: SV Studio Rachrada \nDop: Pankaj Vaghela\nEditing: Marvel Video Tec Idar\nLabal ©:  @RohitThakorOfficial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EVEeE68DAr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EVEeE68DAr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EVEeE68DAr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EVEeE68DAr0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EVEeE68DAr0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rohit Thakor Official",
+                "tags": [
+                    "Rohit Thakor",
+                    "Rohit Thakor New Song 2025",
+                    "Rohit Thakor Na Geeto",
+                    "Rohit Thakor Na Nava Geeto",
+                    "Mataji No Thal",
+                    "Dashamaa No Thal",
+                    "Mataji No Juno Thal",
+                    "Traditional Mataji No Thal",
+                    "Thal"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Dashamaa No Thal - Full Video | Rohit Thakor New Dashamaa 2025 | Mataji No Thal",
+                    "description": "#Rohit_Thakor_Official\n\nSong: Dashamaa No Thal\nSinger: Rohit Thakor\nLyrics: Sandip Talpada \nMusic: Sunil Thakor, Jagdish Thakor\nRecording: SV Studio Rachrada \nDop: Pankaj Vaghela\nEditing: Marvel Video Tec Idar\nLabal ©:  @RohitThakorOfficial"
+                },
+                "defaultAudioLanguage": "gu"
+            },
+            "contentDetails": {
+                "duration": "PT6M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "307031",
+                "likeCount": "3235",
+                "favoriteCount": "0",
+                "commentCount": "52"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "lGUvpLTvED0ZiMONKPwlmDoyocw",
+            "id": "Llss1aRo8tw",
+            "snippet": {
+                "publishedAt": "2025-07-23T04:28:07Z",
+                "channelId": "UCLbdVvreihwZRL6kwuEUYsA",
+                "title": "Karuppu (Tamil) - Teaser | Suriya | RJB | Trisha | @SaiAbhyankkar | Dream Warrior Pictures",
+                "description": "Here's the Official Teaser of \"Karuppu\" (Tamil), Starring Suriya, Trisha, Indrans, Natty, Swasika, Sshivadha & Others Music by @SaiAbhyankkar, Written & Directed by RJ Balaji.\n\nMovie Credits :\n\nCast : Suriya, Trisha, Indrans, Natty, Swasika, Sshivadha, Anagha Maya Ravi, Supreeth Reddy and Others\nWritten & Directed by RJB\nProduced by Dream Warrior Pictures\nProducers : S R Prakash Babu & S R Prabu\nExecutive Producer : Aravendraj Baskaran\nWriters : Ashwin Ravichandran - Rahul Raj - T S Gopi Krishnan - Karan Aravind Kumar\nDirector of Photography : G K Vishnu\nMusic : @SaiAbhyankkar \nProduction Design : Arun Venjaramoodu\nEditor : R Kalaivanan\nStunts : Anbariv - Vikram Mor\nChoreography : Shobi - Sandy\nLyrics : Vishnu Edavan - Asal Kolaar - Arun Srinivasan\nStylist: Praveen Raja - Eka Lakhani - Divya Nagarajan\nCostumes : Perumal Selvam\nMake-up : Vinoth Sukumaran\nColor by Redchillies.color\nSr.Colortist : Ken Metzker\nVFX : Phantom\nSound Design : Sync Cinema\nSound Mixing : Kannan Ganpat\nStills : D.Narendran\nPublicity Designs: Kabilan\nPRO : Sathish S2 \nProduction Controller: Rajendran PS\nAssociate EP: Allaudin Hussain, Sathappa S\nPromotions: Esakki Muthu K\n\nSong Credits:\n\nMusic Composed, Sung and Produced by @SaiAbhyankkar \nSingers : @SaiAbhyankkar, Arivu \nLyricist : Arun Srinivasan \nAdditional Vocals : Mahesh Vinayakram, Arun Kaundinya, Yogi Sekar \nSynth , Keys and Synth Bass : @SaiAbhyankkar \nAdditional Rhythm : Kalyan\nKumbaaara Rhythm : Yanka Percussion Group \nMoorsing : Mahesh Vinayakram\nNavtar : Vishnu \n\nThe Indian choral Ensemble:\n\nVanathi Suresh\nSivaranjini Chandramouli\nShri Badhra K A\nYazhini\nBavathayini Nagarajan\nVarsha R Mallya\n\nMixed by @SaiAbhyankkar at YOLO records \nMastered by Rupendar Venkatesh\n\nAudio Label : Think Music\n\n© 2025 SPI Music Pvt. Ltd.\n\nFor All Latest Updates:\nWebsite: https://thinkmusic.in/\nSubscribe to us on: http://www.youtube.com/thinkmusicindia\nFollow us on: https://twitter.com/thinkmusicindia\nLike us on: https://www.facebook.com/Thinkmusicofficial\nFollow us on: https://www.instagram.com/thinkmusicofficial\n\n#Karuppu #Suriya #Trisha #RJB #SaiAbhyankkar #DreamWarriorPictures #KaruppuTamilTeaser",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Llss1aRo8tw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Llss1aRo8tw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Llss1aRo8tw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Llss1aRo8tw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Llss1aRo8tw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Think Music India",
+                "tags": [
+                    "karuppu",
+                    "suriya",
+                    "trisha",
+                    "rj balaji",
+                    "sai abhyankkar",
+                    "karuppu teaser",
+                    "karupu",
+                    "surya",
+                    "surya karupu teaser",
+                    "karuppu tamil teaser",
+                    "karuppu teaser tamil",
+                    "suriya karuppu teaser",
+                    "karuppu tamil movie teaser",
+                    "karuppu movie teaser tamil",
+                    "karuppu movie",
+                    "suriya karupu teaser",
+                    "karupu surya teaser",
+                    "surya 45 teaser",
+                    "suriya 45 teaser",
+                    "karupu tamil teaser",
+                    "karupu teaser tamil",
+                    "karupu movie",
+                    "karuppu suriya movie",
+                    "karupu surya movie teaser",
+                    "tamil movies 2025",
+                    "tamil movies",
+                    "Suriya Trisha"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Karuppu (Tamil) - Teaser | Suriya | RJB | Trisha | @SaiAbhyankkar | Dream Warrior Pictures",
+                    "description": "Here's the Official Teaser of \"Karuppu\" (Tamil), Starring Suriya, Trisha, Indrans, Natty, Swasika, Sshivadha & Others Music by @SaiAbhyankkar, Written & Directed by RJ Balaji.\n\nMovie Credits :\n\nCast : Suriya, Trisha, Indrans, Natty, Swasika, Sshivadha, Anagha Maya Ravi, Supreeth Reddy and Others\nWritten & Directed by RJB\nProduced by Dream Warrior Pictures\nProducers : S R Prakash Babu & S R Prabu\nExecutive Producer : Aravendraj Baskaran\nWriters : Ashwin Ravichandran - Rahul Raj - T S Gopi Krishnan - Karan Aravind Kumar\nDirector of Photography : G K Vishnu\nMusic : @SaiAbhyankkar \nProduction Design : Arun Venjaramoodu\nEditor : R Kalaivanan\nStunts : Anbariv - Vikram Mor\nChoreography : Shobi - Sandy\nLyrics : Vishnu Edavan - Asal Kolaar - Arun Srinivasan\nStylist: Praveen Raja - Eka Lakhani - Divya Nagarajan\nCostumes : Perumal Selvam\nMake-up : Vinoth Sukumaran\nColor by Redchillies.color\nSr.Colortist : Ken Metzker\nVFX : Phantom\nSound Design : Sync Cinema\nSound Mixing : Kannan Ganpat\nStills : D.Narendran\nPublicity Designs: Kabilan\nPRO : Sathish S2 \nProduction Controller: Rajendran PS\nAssociate EP: Allaudin Hussain, Sathappa S\nPromotions: Esakki Muthu K\n\nSong Credits:\n\nMusic Composed, Sung and Produced by @SaiAbhyankkar \nSingers : @SaiAbhyankkar, Arivu \nLyricist : Arun Srinivasan \nAdditional Vocals : Mahesh Vinayakram, Arun Kaundinya, Yogi Sekar \nSynth , Keys and Synth Bass : @SaiAbhyankkar \nAdditional Rhythm : Kalyan\nKumbaaara Rhythm : Yanka Percussion Group \nMoorsing : Mahesh Vinayakram\nNavtar : Vishnu \n\nThe Indian choral Ensemble:\n\nVanathi Suresh\nSivaranjini Chandramouli\nShri Badhra K A\nYazhini\nBavathayini Nagarajan\nVarsha R Mallya\n\nMixed by @SaiAbhyankkar at YOLO records \nMastered by Rupendar Venkatesh\n\nAudio Label : Think Music\n\n© 2025 SPI Music Pvt. Ltd.\n\nFor All Latest Updates:\nWebsite: https://thinkmusic.in/\nSubscribe to us on: http://www.youtube.com/thinkmusicindia\nFollow us on: https://twitter.com/thinkmusicindia\nLike us on: https://www.facebook.com/Thinkmusicofficial\nFollow us on: https://www.instagram.com/thinkmusicofficial\n\n#Karuppu #Suriya #Trisha #RJB #SaiAbhyankkar #DreamWarriorPictures #KaruppuTamilTeaser"
+                },
+                "defaultAudioLanguage": "ta"
+            },
+            "contentDetails": {
+                "duration": "PT1M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "13231805",
+                "likeCount": "586037",
+                "favoriteCount": "0",
+                "commentCount": "18088"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "M381VfYqQdJSebfqdffzchDJeAI",
+            "id": "G7bQXOE8hT4",
+            "snippet": {
+                "publishedAt": "2025-07-24T11:55:56Z",
+                "channelId": "UCSncGB_s0tuWN-4l-58mmvQ",
+                "title": "I JOINED SQUID GAME IN MINECRAFT",
+                "description": "So Today, I Joined Squid Game in Minecraft... Can I Survive till the end, or will i get eliminated?\n\nSUBSCRIBE, if you enjoyed this one!\n\nFacebook - https://www.facebook.com/proboizz95\nInstagram - https://www.instagram.com/proboiz_95\nTwitter - https://twitter.com/proboiz95\n\nBusiness Inquiry - proboizofficial@gmail.com\n\nAbout me: I am Paresh, Aka ProBoiz and I make gaming videos that will surely make your day! So if you enjoyed watching this videos then SMASH that Like button :D",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G7bQXOE8hT4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G7bQXOE8hT4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G7bQXOE8hT4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G7bQXOE8hT4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G7bQXOE8hT4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ProBoiz 95",
+                "tags": [
+                    "minecraft",
+                    "squid game",
+                    "minecraft squid game",
+                    "squid game in minecraft",
+                    "i created squid game in minecraft",
+                    "i joined squid game in minecraft",
+                    "proboiz squid game",
+                    "proboiz",
+                    "proboiz 95"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "I JOINED SQUID GAME IN MINECRAFT",
+                    "description": "So Today, I Joined Squid Game in Minecraft... Can I Survive till the end, or will i get eliminated?\n\nSUBSCRIBE, if you enjoyed this one!\n\nFacebook - https://www.facebook.com/proboizz95\nInstagram - https://www.instagram.com/proboiz_95\nTwitter - https://twitter.com/proboiz95\n\nBusiness Inquiry - proboizofficial@gmail.com\n\nAbout me: I am Paresh, Aka ProBoiz and I make gaming videos that will surely make your day! So if you enjoyed watching this videos then SMASH that Like button :D"
+                },
+                "defaultAudioLanguage": "en-IN"
+            },
+            "contentDetails": {
+                "duration": "PT54M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1058570",
+                "likeCount": "38708",
+                "favoriteCount": "0",
+                "commentCount": "4476"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "b8VHLog5P4cCe-vS_nMXU-cm_uA",
+            "id": "XCTfOCatd1g",
+            "snippet": {
+                "publishedAt": "2025-07-24T09:30:17Z",
+                "channelId": "UCh6r40fbLs62rieVnODZkSw",
+                "title": "#Video | #Raushan Rohi | है तौ है | #Srishti Bharti | Hai To Hai | New #Rangdari #Maghi Song 2025",
+                "description": "►Create Your Reels :- \n\n►Album :- है तौ है\n►Song :- Hai To Hai \n►Singer :- Jail Star Roshan Rohi & Srishti Bharti\n►Feat :- Neha Goshwami\n►Lyrics :- Raushan Rohi, Raja Raushan\n►Music :- Pappu Bhai\n►Mixing :- Ankit Ahir 8210514747\n►Manager :- Bittu Singh\n►Poster Design :- Dhiraj DKT\n►Producer :- Raushan Rohi\n►Company/Label - Raushan Rohi Entertainment\n►Trade Inquiry No - \n___________________________________________________________\n►Digital Head :- Vicky Yadav\n►Digital  Partner :- Marsorbit Entertainment Pvt.Ltd\n___________________________________________________________\n►Raushan Rohi Entertainment Pages \n►Facebook :- https://www.facebook.com/raushan.shiv... \n►Instagram :- https://www.instagram.com/singerraush...    \n___________________________________________________________\n►Company Brand :- Raushan Rohi Entertainment\n►Subscribe Our Channel  :- \n►Thanks For Watching Our  Channel.\n►Have A Nice Day ...\n►Subscribe For More Updates ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XCTfOCatd1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XCTfOCatd1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XCTfOCatd1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XCTfOCatd1g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XCTfOCatd1g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Raushan Rohi Entertainment",
+                "tags": [
+                    "raushan rohi",
+                    "raushan rohi entertainment",
+                    "raushan rohi new maghi gana",
+                    "raushan rohi rangdari gana",
+                    "raushan rohi naya maghi gana",
+                    "raushan rohi ke rangdari gana",
+                    "srishti bharti maghi gana",
+                    "rangdari new maghi song",
+                    "raushan rohi hit gana",
+                    "raushan rohi viral song maghi",
+                    "maghi naya rangdari gana",
+                    "raushan rohi maghi hit gana",
+                    "maghi naya gana",
+                    "raushan rohi rangdari song",
+                    "raushan rohi new song",
+                    "Hai To Hai",
+                    "Raushan Rohi New song"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "#Video | #Raushan Rohi | है तौ है | #Srishti Bharti | Hai To Hai | New #Rangdari #Maghi Song 2025",
+                    "description": "►Create Your Reels :- \n\n►Album :- है तौ है\n►Song :- Hai To Hai \n►Singer :- Jail Star Roshan Rohi & Srishti Bharti\n►Feat :- Neha Goshwami\n►Lyrics :- Raushan Rohi, Raja Raushan\n►Music :- Pappu Bhai\n►Mixing :- Ankit Ahir 8210514747\n►Manager :- Bittu Singh\n►Poster Design :- Dhiraj DKT\n►Producer :- Raushan Rohi\n►Company/Label - Raushan Rohi Entertainment\n►Trade Inquiry No - \n___________________________________________________________\n►Digital Head :- Vicky Yadav\n►Digital  Partner :- Marsorbit Entertainment Pvt.Ltd\n___________________________________________________________\n►Raushan Rohi Entertainment Pages \n►Facebook :- https://www.facebook.com/raushan.shiv... \n►Instagram :- https://www.instagram.com/singerraush...    \n___________________________________________________________\n►Company Brand :- Raushan Rohi Entertainment\n►Subscribe Our Channel  :- \n►Thanks For Watching Our  Channel.\n►Have A Nice Day ...\n►Subscribe For More Updates ..."
+                },
+                "defaultAudioLanguage": "bh"
+            },
+            "contentDetails": {
+                "duration": "PT4M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "295031",
+                "likeCount": "20206",
+                "favoriteCount": "0",
+                "commentCount": "1616"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "1kG0Wdg2fLm0nNEPEPIlD_mU7i4",
+            "id": "PAG8voWnIB0",
+            "snippet": {
+                "publishedAt": "2025-07-24T07:50:11Z",
+                "channelId": "UCeiAKuJGZrIjYvaq0nMwbJg",
+                "title": "War 2 Trailer Pre-REVIEW | Deeksha Sharma",
+                "description": "War 2 Trailer Pre-Review By Deeksha Sharma. YRF Spy Universe Film War 2 Featuring Hrithik Roshan vs NTR with Kiara Advani is all set for Trailer Reveal on 25th July after Saiyaara Big Success. War 2 Trailer will showcase Director Ayan Mukerjee Violence & Raw face off between Hrithik Roshan & Ntr for the Biggest Pan Indian Cinema of 2025. War 2 Trailer Prediction & Full Movie Expectations would be shared in this Video. Can Coolie Rajnikanth maintain momentum or War 2 Trailer will swing the Votes for Bollywood? Do leave Comments below for 14th August Box Office Clash.\n\n#War2 #War2Trailer #War2TrailerPreReview\n\n➤ Follow Me on Instagram-\n     https://www.instagram.com/thefilmiindian",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PAG8voWnIB0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PAG8voWnIB0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PAG8voWnIB0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PAG8voWnIB0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PAG8voWnIB0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Filmi Indian",
+                "tags": [
+                    "war 2",
+                    "war 2 trailer",
+                    "war 2 trailer pre review",
+                    "war 2 movie",
+                    "hrithik roshan",
+                    "ntr",
+                    "kiara advani",
+                    "yrf",
+                    "spy universe",
+                    "war 2 full movie",
+                    "war 2 trailer date",
+                    "war 2 hindi",
+                    "movie",
+                    "trailer",
+                    "review reaction",
+                    "filmi indian",
+                    "war 2 songs",
+                    "war 2 teaser",
+                    "war 2 review",
+                    "war 2 reaction"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "War 2 Trailer Pre-REVIEW | Deeksha Sharma",
+                    "description": "War 2 Trailer Pre-Review By Deeksha Sharma. YRF Spy Universe Film War 2 Featuring Hrithik Roshan vs NTR with Kiara Advani is all set for Trailer Reveal on 25th July after Saiyaara Big Success. War 2 Trailer will showcase Director Ayan Mukerjee Violence & Raw face off between Hrithik Roshan & Ntr for the Biggest Pan Indian Cinema of 2025. War 2 Trailer Prediction & Full Movie Expectations would be shared in this Video. Can Coolie Rajnikanth maintain momentum or War 2 Trailer will swing the Votes for Bollywood? Do leave Comments below for 14th August Box Office Clash.\n\n#War2 #War2Trailer #War2TrailerPreReview\n\n➤ Follow Me on Instagram-\n     https://www.instagram.com/thefilmiindian"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT4M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "353752",
+                "likeCount": "15351",
+                "favoriteCount": "0",
+                "commentCount": "1430"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ea2wcoqJg0q7UwY3zHkddus3nZ4",
+            "id": "GgKq55pK4S4",
+            "snippet": {
+                "publishedAt": "2025-07-24T22:28:48Z",
+                "channelId": "UC3-QQLDTbBBsMC5DbAeVGqg",
+                "title": "[HINDI] iQOO Battleground Series 2025 | GROUP STAGE - Day 4 #QuestForGlory #iQOONeo10",
+                "description": "Day 4 — the final shot.\nIt all comes down to this. One last day. Five final matches. Every fight, every finish, every frag now decides your fate.\n\nOnly the Top 8 will punch their ticket to the Grand Finals.\nThe remaining 24? They head to the Semis — and the grind only gets harder from there.\n\nSanhok returns to shake things up, and nerves will be tested like never before.\nWho will hold steady, and who will crack under pressure?\n\nThis is it — the Group Stage ends TODAY.\n\n💰Total Prize Pool: ₹1Cr\n🏆Group Stage Teams🏆\nGROUP A:\nInfinix True Rippers\nLIKITHA ESPORTS\nVasista Esports\nGods for reason\niQOO REVENANT X SPARK\nJux Esports\nOnePlus Cincinnati Kids\nGENESIS ESPORTS\nWyld Fangs\nFS Esports\nOnePlus K9 Esports\nMedal Esports\nNoNx eSports\nTWOB\nMarcos Gaming\n16SCORE X BotArmy\n\nGROUP B:\niQOO8BIT\nPhoenix Esports\nRedXRoss\n4TR Official\niQOO SOUL\nHero Xtreme Godlike\nSPINBOT JAGUAR\nTeam Forever\niQOO Reckoning Esports\niQOO ORANGUTAN\nMoney Makers\nOnePlus Gods Reign\nCarpediem\nMETA NINZA\nLos hermanos\nTeam Eggy\n\n Today’s Map Rotation:\nMatch ⚔️1: Erangel - Group B\nMatch ⚔️2: Sanhok - Group B\nMatch ⚔️3: Erangel - Group B\nMatch ⚔️4: Sanhok - Group A\nMatch ⚔️5: Erangel - Group A\n\n#iQOOBattlegroundSeries #BGMI #iQOOBattlegroundSeries2025 #gaming \nFollow us:\nhttps://www.instagram.com/iqooesports/\nhttps://www.facebook.com/iQOOIndia\nhttps://x.com/IqooInd\nhttps://www.youtube.com/@iqooesports5550",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GgKq55pK4S4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GgKq55pK4S4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GgKq55pK4S4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GgKq55pK4S4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GgKq55pK4S4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "iQOO ESPORTS",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[HINDI] iQOO Battleground Series 2025 | GROUP STAGE - Day 4 #QuestForGlory #iQOONeo10",
+                    "description": "Day 4 — the final shot.\nIt all comes down to this. One last day. Five final matches. Every fight, every finish, every frag now decides your fate.\n\nOnly the Top 8 will punch their ticket to the Grand Finals.\nThe remaining 24? They head to the Semis — and the grind only gets harder from there.\n\nSanhok returns to shake things up, and nerves will be tested like never before.\nWho will hold steady, and who will crack under pressure?\n\nThis is it — the Group Stage ends TODAY.\n\n💰Total Prize Pool: ₹1Cr\n🏆Group Stage Teams🏆\nGROUP A:\nInfinix True Rippers\nLIKITHA ESPORTS\nVasista Esports\nGods for reason\niQOO REVENANT X SPARK\nJux Esports\nOnePlus Cincinnati Kids\nGENESIS ESPORTS\nWyld Fangs\nFS Esports\nOnePlus K9 Esports\nMedal Esports\nNoNx eSports\nTWOB\nMarcos Gaming\n16SCORE X BotArmy\n\nGROUP B:\niQOO8BIT\nPhoenix Esports\nRedXRoss\n4TR Official\niQOO SOUL\nHero Xtreme Godlike\nSPINBOT JAGUAR\nTeam Forever\niQOO Reckoning Esports\niQOO ORANGUTAN\nMoney Makers\nOnePlus Gods Reign\nCarpediem\nMETA NINZA\nLos hermanos\nTeam Eggy\n\n Today’s Map Rotation:\nMatch ⚔️1: Erangel - Group B\nMatch ⚔️2: Sanhok - Group B\nMatch ⚔️3: Erangel - Group B\nMatch ⚔️4: Sanhok - Group A\nMatch ⚔️5: Erangel - Group A\n\n#iQOOBattlegroundSeries #BGMI #iQOOBattlegroundSeries2025 #gaming \nFollow us:\nhttps://www.instagram.com/iqooesports/\nhttps://www.facebook.com/iQOOIndia\nhttps://x.com/IqooInd\nhttps://www.youtube.com/@iqooesports5550"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT3H44M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1089008",
+                "likeCount": "30150",
+                "favoriteCount": "0",
+                "commentCount": "273"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "d_DjTOC5qZ9tVwiU3MF8o9W8g4o",
+            "id": "DC44qMJ0SPI",
+            "snippet": {
+                "publishedAt": "2025-07-24T01:32:00Z",
+                "channelId": "UC1kMHj-C7KmHZ7mmxO--KoA",
+                "title": "Jigar Thakor | Ghare Padharya Dashama | ઘરે પધાર્યા દશામાં | New Dashama Song 2025 | Jhankar Music",
+                "description": "Jhankar Music Bhakti Gujarati Presents Latest Dashama Devotional Video Song titled \"Ghare Padharya Dashama\", Sung by Jigar Thakor, & Penned by Viral Nayta, & Music Directed by Dhaval Patel, Prabhat Thakor Undra, Starring: Jigar Thakor, Bharti Thakor, Raj Chaudhary, & Directed by Naresh Patani, Prakash Vadhasar\nStay tuned & Subscribe Our Yt Channel to get Notified-\nhttps://www.youtube.com/c/JhankarMusicGujaratiBhakti  \n\nHere's to make your busy morning beautiful, introducing \"Dashama Padharya\", a peaceful devotional song to mend your hearts.\n\nતમારી વ્યસ્ત સવારને સુંદર બનાવવા માટે, \"દશામાં પધાર્યા\" રજૂ કરી રહ્યા છીએ, જે તમારા હૃદયને શાંત કરવા માટે એક શાંતિપૂર્ણ ભક્તિ ગીત છે.\n\nTo Make Insta Reels Click here : https://www.instagram.com/reels/audio/1454037235634476/\n\n🎧 𝐀𝐮𝐝𝐢𝐨 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : \n♪ Song : Ghare Padharya Dashama \n♪ Singer : Jigar  Thakor\n♪ Lyrics : Viral Nayta, Vikram Abluva\n♪ Music : Dhaval Patel, Prabhat Thakor Undra\n♪ Studio : Jhankar Music Recording Studio - Patan\n\n🎬 𝐕𝐢𝐝𝐞𝐨 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : \n♪ Producer : Maarss Movies And Music (Jhankar Music)\n♪ Project Lead By : Vikram Abluva\n♪ Director : Naresh Patani, Prakash Vadhasar\n♪ Star Cast : Jigar Thakor, Bharti Thakor, Raj Chaudhary\n♪ Co Artist : Dharti Parmar, Mital Parmar\n♪ D.O.P, Editing & DI : Naresh Patani\n♪ Production :  VAT Digital - Patan\n♪ Makeup : Bharti Thakor\n♪ Design : P.C. Patan \n♪ SP Thanks : Alkesh Abluva, Mehul Abluva\n♪ Travelling : Jayesh Thakor\n♪ Genre : Devotional\n♪ Music Label : Jhankar Music\n📞For enquiries and for Song Uploading Contact on this No.: 7383909868\n\n#jigarthakor #newdashamasong #dashamanagarba #gharepadharyadashama #jhankarmusicbhaktigujarati \n---------------------------------\n📝 𝐋𝐲𝐫𝐢𝐜𝐬: Gujarati  👇\n\nહો અષાઢ ઉતરીયો શ્રાવણ આયો ઝરમર મેઘ વરસ્યા...(૨)\nઘેર દશામાં પધાર્યા \nહે આયો દિવાહા નો દાડો \nમારા હૈયે હરખ લાયો દશામાં વધાવો\nહો દશ દાડા દશામાં ના વ્રત મારે લેવા\nહાજ હવાર માંની કરવી મારે સેવા\nહે આજે આભે વીજ ચમકી મધુરા મોર બોલ્યા\nમારા ઘેર દશામાં પધાર્યા...(૨)\n\nહો શક્તિ પ્રમાણે માડી કરુ તારી ભક્તિ\nઆવવા ના દેતી કોઈ દાડો મારી નમતી\nહો આજે મારી હાલત જોઇ હશે ભલે વસતી \nદશામાં બનાવશે મને બહુ મોટી હસ્તી\nહો દીવો તારો ભરું માં અજવાળા કાયમ રાખજે...(૨)\nઅમી નજરું મારા માથે માડી નાખજે\nહો દયાળુ દશામાં તું દુઃખિયા ની બેલી\nકાયમ રેજે ભેળી ...(૨)\n\nહો પૂરા કરજે જે મેં જોયા સે સપના \nજોજે કોડ અધુરા ન રહી જાય મારા મનના\nહો મારા માટે માડી તું રામ લેખ ધડજે\nદૂબળા દાડા માડી તું ના આવવા દેજે \nહો કાળા કળયુગ તારા મોજુદાશે પારચા\nદેવી દશામાં ની તો જગ માં થાય ચરચા \nહો સુખ નો સુરજ મળી તું મારા ઘેર ઉગાડજે \nમારી વેળા માં તું વાળજે...(૩)\n\nWatch our other songs click here: 👇\n \n► માં - Maa (Jigar Ni Jeet)\nhttps://www.youtube.com/watch?v=CProTe4A3cc\n\n►Dashma No Bajot\nhttps://youtu.be/PtwQcgbSuOM\n\n ►Dashama Ni Aarti\nhttps://youtu.be/uFLRp_aw-Mg\n\n►Manthi Monu Tane Dashama \nhttps://youtu.be/GiXg_PRsCIM\n\n►Mari Das Dishani Dasha Maa\nhttps://youtu.be/P7OpOGlWzI8\n\nghare padharya dashama \njigar thakor\njigar thakor songs\nnew song jigar thakor\njigar thakor new song ghare padharya dashama \njigar thakor new song 2025\n---------------------------------\n@Jhankar Music Bhakti Gujarati\n Subscribe Our Channel ↓↓←\nhttps://www.youtube.com/c/JhankarMusicGujaratiBhakti  \n\nLike  - Share - Follow us on :  \n►YouTube : https://www.youtube.com/@jhankarmusicbhajanbhakti \n►Facebook : https://www.facebook.com/jhankarmusicgujarati...\n►Twitter : https://twitter.com/music_jhankar...\u200b\n►Instagram : https://www.instagram.com/JhankarMusicGujarati...\n\n  JHANKAR MUSIC BHAKTI GUJARATI \nLIKE | SHARE | COMMENT | SUBSCRIBE \n\nThanks For Watching !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DC44qMJ0SPI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DC44qMJ0SPI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DC44qMJ0SPI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DC44qMJ0SPI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DC44qMJ0SPI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jhankar Music Bhakti - Gujarati ",
+                "tags": [
+                    "new dashama song 2025",
+                    "dashama 2025",
+                    "Jigar Thakor",
+                    "Jigar Thakor New Dashama Song",
+                    "Ghare Padharya Dashama",
+                    "Viral Nayta",
+                    "Vikram Abluva",
+                    "New Dashama Song 2025",
+                    "ઘરે પધાર્યા દશામાં",
+                    "Dashama Padharya",
+                    "jigar thakor new song 2025",
+                    "Jigar Thakor Dashama Song",
+                    "Dashama Song Jigar Thakor",
+                    "dashama na geet",
+                    "new gujarati song Jigar Thakor",
+                    "new gujarati song dashama",
+                    "Dashama New Song Jigar Thakor",
+                    "Dhaval Patel",
+                    "Prabhat Thakor Undra",
+                    "Jhankar Music Gujarati",
+                    "Jhankar Music Gujarati Bhakti"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-IN",
+                "localized": {
+                    "title": "Jigar Thakor | Ghare Padharya Dashama | ઘરે પધાર્યા દશામાં | New Dashama Song 2025 | Jhankar Music",
+                    "description": "Jhankar Music Bhakti Gujarati Presents Latest Dashama Devotional Video Song titled \"Ghare Padharya Dashama\", Sung by Jigar Thakor, & Penned by Viral Nayta, & Music Directed by Dhaval Patel, Prabhat Thakor Undra, Starring: Jigar Thakor, Bharti Thakor, Raj Chaudhary, & Directed by Naresh Patani, Prakash Vadhasar\nStay tuned & Subscribe Our Yt Channel to get Notified-\nhttps://www.youtube.com/c/JhankarMusicGujaratiBhakti  \n\nHere's to make your busy morning beautiful, introducing \"Dashama Padharya\", a peaceful devotional song to mend your hearts.\n\nતમારી વ્યસ્ત સવારને સુંદર બનાવવા માટે, \"દશામાં પધાર્યા\" રજૂ કરી રહ્યા છીએ, જે તમારા હૃદયને શાંત કરવા માટે એક શાંતિપૂર્ણ ભક્તિ ગીત છે.\n\nTo Make Insta Reels Click here : https://www.instagram.com/reels/audio/1454037235634476/\n\n🎧 𝐀𝐮𝐝𝐢𝐨 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : \n♪ Song : Ghare Padharya Dashama \n♪ Singer : Jigar  Thakor\n♪ Lyrics : Viral Nayta, Vikram Abluva\n♪ Music : Dhaval Patel, Prabhat Thakor Undra\n♪ Studio : Jhankar Music Recording Studio - Patan\n\n🎬 𝐕𝐢𝐝𝐞𝐨 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : \n♪ Producer : Maarss Movies And Music (Jhankar Music)\n♪ Project Lead By : Vikram Abluva\n♪ Director : Naresh Patani, Prakash Vadhasar\n♪ Star Cast : Jigar Thakor, Bharti Thakor, Raj Chaudhary\n♪ Co Artist : Dharti Parmar, Mital Parmar\n♪ D.O.P, Editing & DI : Naresh Patani\n♪ Production :  VAT Digital - Patan\n♪ Makeup : Bharti Thakor\n♪ Design : P.C. Patan \n♪ SP Thanks : Alkesh Abluva, Mehul Abluva\n♪ Travelling : Jayesh Thakor\n♪ Genre : Devotional\n♪ Music Label : Jhankar Music\n📞For enquiries and for Song Uploading Contact on this No.: 7383909868\n\n#jigarthakor #newdashamasong #dashamanagarba #gharepadharyadashama #jhankarmusicbhaktigujarati \n---------------------------------\n📝 𝐋𝐲𝐫𝐢𝐜𝐬: Gujarati  👇\n\nહો અષાઢ ઉતરીયો શ્રાવણ આયો ઝરમર મેઘ વરસ્યા...(૨)\nઘેર દશામાં પધાર્યા \nહે આયો દિવાહા નો દાડો \nમારા હૈયે હરખ લાયો દશામાં વધાવો\nહો દશ દાડા દશામાં ના વ્રત મારે લેવા\nહાજ હવાર માંની કરવી મારે સેવા\nહે આજે આભે વીજ ચમકી મધુરા મોર બોલ્યા\nમારા ઘેર દશામાં પધાર્યા...(૨)\n\nહો શક્તિ પ્રમાણે માડી કરુ તારી ભક્તિ\nઆવવા ના દેતી કોઈ દાડો મારી નમતી\nહો આજે મારી હાલત જોઇ હશે ભલે વસતી \nદશામાં બનાવશે મને બહુ મોટી હસ્તી\nહો દીવો તારો ભરું માં અજવાળા કાયમ રાખજે...(૨)\nઅમી નજરું મારા માથે માડી નાખજે\nહો દયાળુ દશામાં તું દુઃખિયા ની બેલી\nકાયમ રેજે ભેળી ...(૨)\n\nહો પૂરા કરજે જે મેં જોયા સે સપના \nજોજે કોડ અધુરા ન રહી જાય મારા મનના\nહો મારા માટે માડી તું રામ લેખ ધડજે\nદૂબળા દાડા માડી તું ના આવવા દેજે \nહો કાળા કળયુગ તારા મોજુદાશે પારચા\nદેવી દશામાં ની તો જગ માં થાય ચરચા \nહો સુખ નો સુરજ મળી તું મારા ઘેર ઉગાડજે \nમારી વેળા માં તું વાળજે...(૩)\n\nWatch our other songs click here: 👇\n \n► માં - Maa (Jigar Ni Jeet)\nhttps://www.youtube.com/watch?v=CProTe4A3cc\n\n►Dashma No Bajot\nhttps://youtu.be/PtwQcgbSuOM\n\n ►Dashama Ni Aarti\nhttps://youtu.be/uFLRp_aw-Mg\n\n►Manthi Monu Tane Dashama \nhttps://youtu.be/GiXg_PRsCIM\n\n►Mari Das Dishani Dasha Maa\nhttps://youtu.be/P7OpOGlWzI8\n\nghare padharya dashama \njigar thakor\njigar thakor songs\nnew song jigar thakor\njigar thakor new song ghare padharya dashama \njigar thakor new song 2025\n---------------------------------\n@Jhankar Music Bhakti Gujarati\n Subscribe Our Channel ↓↓←\nhttps://www.youtube.com/c/JhankarMusicGujaratiBhakti  \n\nLike  - Share - Follow us on :  \n►YouTube : https://www.youtube.com/@jhankarmusicbhajanbhakti \n►Facebook : https://www.facebook.com/jhankarmusicgujarati...\n►Twitter : https://twitter.com/music_jhankar...\u200b\n►Instagram : https://www.instagram.com/JhankarMusicGujarati...\n\n  JHANKAR MUSIC BHAKTI GUJARATI \nLIKE | SHARE | COMMENT | SUBSCRIBE \n\nThanks For Watching !"
+                },
+                "defaultAudioLanguage": "gu"
+            },
+            "contentDetails": {
+                "duration": "PT4M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "343084",
+                "likeCount": "4813",
+                "favoriteCount": "0",
+                "commentCount": "78"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Xb5R_FcvXDYHCqn5E2ghqvoLv7g",
+            "id": "kZ_Mls4eZ80",
+            "snippet": {
+                "publishedAt": "2025-07-23T04:29:07Z",
+                "channelId": "UCj1hDsiiCrHKIdeyrbMUjCQ",
+                "title": "Raktabeej 2 l Announcement Teaser | Nandita Roy | Shiboprosad Mukherjee | Windows",
+                "description": "Raktabeej 2 is a gripping action thriller and the much-anticipated sequel to the 2023 blockbuster Raktabeej.\n\n‘Raktabeej 2’ is all set to hit the big screens on Durga Puja 2025.\n\nঅশান্ত সময়ের গল্প। এই সময়ের গল্প। নন্দিতা রায় ও শিবপ্রসাদ মুখোপাধ্যায়ের  অ্যাকশান থ্রিলার মুক্তি পাচ্ছে এই পুজোয়। ফিরছে গেম চেঞ্জার 'রক্তবীজ ২'।\n\nCredits:\nPresented by Windows and Sanjay Agarwal\nProduced by Windows\nDirected by Nandita Roy and Shiboprosad Mukherjee\nStory, Screenplay and Dialogues – Zinia Sen\nD.O.P – Pratip Mukhopadhyay\nEditor – Malay Laha\nArt Director – Ranajit Ghorai\nMusic – Bonnie Chakraborty, Anupam Roy, Surojit Chatterjee and Silajit\nBackground Score – Bonnie Chakraborty\nSound Design and Mix – Tirthankar Majumdar and Dipankar Jojo Chaki\nCostume Designer – Abhisek Roy\nChoreographer - Mangesh (Maggi)\nAction Choreographer – Rajesh Kannan\n\n\nCast:\nVictor Banerjee\nSeema Biswas\nAbir Chatterjee \nAnkush Hazra\nMimi Chakraborty\nKoushani Mukherjee\nNusrat Jahan\nAnashua Majumdar\nKanchan Mallick\nSatyam Bhattacharya\nDevlina Kumar\nParomita Mukherjee\nSwagata Mukherjee\nAnanya Banerjee\nRajiv Bose\nDebopriyo Mukherjee\n\n#Raktabeej2\n#GamechangerReturns\n#Thriller\n#ActionThriller\n#AnnouncementTeaser\n#DurgaPuja2025\n#Windows\n\nTo connect with us:\nBook My Show Link: https://in.bookmyshow.com/movies/kolkata/raktabeej-2-bengali/ET00451788\n\nEnjoy and stay connected with us!!\n\n► Subscribe to Windows Production : https://bit.ly/4ajjHLR\n► Like us on Facebook :   https://www.facebook.com/windowsproductionhouse/\n► Follow us on Twitter :   https://x.com/WindowsNs\n► Follow us on Instagram : https://www.instagram.com/windowsproduction/\n► Follow us on Threads :  https://www.threads.net/@windowsproduction",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kZ_Mls4eZ80/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kZ_Mls4eZ80/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kZ_Mls4eZ80/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kZ_Mls4eZ80/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kZ_Mls4eZ80/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "WINDOWS",
+                "tags": [
+                    "Raktabeej 2",
+                    "Announcement Teaser",
+                    "Raktabeej",
+                    "New Bengali film teaser",
+                    "Abir",
+                    "Mimi",
+                    "Koushani",
+                    "Ankush",
+                    "Raktabeej 2 Teaser",
+                    "Raktabeej 2 Pre Tease",
+                    "Bengali movie announcement Teaser",
+                    "Windows Production",
+                    "Windows New Film",
+                    "Raktabeej Trailer",
+                    "bengali film",
+                    "bangla cinema",
+                    "bangla movie new",
+                    "bangla movie",
+                    "bengali film durga puja 2025",
+                    "durga puja 2025 bangla cinema",
+                    "new bengali film 2025",
+                    "notun bangla movie",
+                    "sohini sarkar",
+                    "bengali action movie",
+                    "Nandita Roy",
+                    "Shiboprosad Mukherjee New film"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Raktabeej 2 l Announcement Teaser | Nandita Roy | Shiboprosad Mukherjee | Windows",
+                    "description": "Raktabeej 2 is a gripping action thriller and the much-anticipated sequel to the 2023 blockbuster Raktabeej.\n\n‘Raktabeej 2’ is all set to hit the big screens on Durga Puja 2025.\n\nঅশান্ত সময়ের গল্প। এই সময়ের গল্প। নন্দিতা রায় ও শিবপ্রসাদ মুখোপাধ্যায়ের  অ্যাকশান থ্রিলার মুক্তি পাচ্ছে এই পুজোয়। ফিরছে গেম চেঞ্জার 'রক্তবীজ ২'।\n\nCredits:\nPresented by Windows and Sanjay Agarwal\nProduced by Windows\nDirected by Nandita Roy and Shiboprosad Mukherjee\nStory, Screenplay and Dialogues – Zinia Sen\nD.O.P – Pratip Mukhopadhyay\nEditor – Malay Laha\nArt Director – Ranajit Ghorai\nMusic – Bonnie Chakraborty, Anupam Roy, Surojit Chatterjee and Silajit\nBackground Score – Bonnie Chakraborty\nSound Design and Mix – Tirthankar Majumdar and Dipankar Jojo Chaki\nCostume Designer – Abhisek Roy\nChoreographer - Mangesh (Maggi)\nAction Choreographer – Rajesh Kannan\n\n\nCast:\nVictor Banerjee\nSeema Biswas\nAbir Chatterjee \nAnkush Hazra\nMimi Chakraborty\nKoushani Mukherjee\nNusrat Jahan\nAnashua Majumdar\nKanchan Mallick\nSatyam Bhattacharya\nDevlina Kumar\nParomita Mukherjee\nSwagata Mukherjee\nAnanya Banerjee\nRajiv Bose\nDebopriyo Mukherjee\n\n#Raktabeej2\n#GamechangerReturns\n#Thriller\n#ActionThriller\n#AnnouncementTeaser\n#DurgaPuja2025\n#Windows\n\nTo connect with us:\nBook My Show Link: https://in.bookmyshow.com/movies/kolkata/raktabeej-2-bengali/ET00451788\n\nEnjoy and stay connected with us!!\n\n► Subscribe to Windows Production : https://bit.ly/4ajjHLR\n► Like us on Facebook :   https://www.facebook.com/windowsproductionhouse/\n► Follow us on Twitter :   https://x.com/WindowsNs\n► Follow us on Instagram : https://www.instagram.com/windowsproduction/\n► Follow us on Threads :  https://www.threads.net/@windowsproduction"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT1M4S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "642735",
+                "likeCount": "10760",
+                "favoriteCount": "0",
+                "commentCount": "2906"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "G7FQvskOHZ8dwpigZSgKZfNPBzE",
+            "id": "P1F7_bm82Bg",
+            "snippet": {
+                "publishedAt": "2025-07-24T08:30:14Z",
+                "channelId": "UCFwKgzKe-EdTz83r6wzhmOw",
+                "title": "I Made Ruchika Play a Horror Game & It Was Hilarious (The Jester Full Game)",
+                "description": "You asked for it, here it is.\n\nBecome a Channel Member ► https://www.youtube.com/channel/UCFwKgzKe-EdTz83r6wzhmOw/join\n\nInstagram ► https://www.instagram.com/triggeredinsaan\n\nFacebook ► https://www.facebook.com/realtriggeredinsaan\n\nOther Channel ► https://www.youtube.com/triggeredinsaan\n\nDiscord ► https://discord.gg/liveinsaan\n\nTwitter ► https://twitter.com/triggeredinsaan\n\nAbout Me ► My name is Nischay Malhan. I'm from Delhi and I'm an engineering student. Now I am pursuing youtube Full Time. I make family friendly clean comedy Gaming videos on this channel for everyone to enjoy with their family. You don't need earphones to watch my videos😂\n\nThanks For Reading😘",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P1F7_bm82Bg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P1F7_bm82Bg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P1F7_bm82Bg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P1F7_bm82Bg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P1F7_bm82Bg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Live Insaan",
+                "tags": [
+                    "Triggered Insaan",
+                    "Live Insaan",
+                    "funny",
+                    "comedy",
+                    "horror game",
+                    "the jester gameplay",
+                    "nischay malhan",
+                    "ruchika rathore"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "hi",
+                "localized": {
+                    "title": "I Made Ruchika Play a Horror Game & It Was Hilarious (The Jester Full Game)",
+                    "description": "You asked for it, here it is.\n\nBecome a Channel Member ► https://www.youtube.com/channel/UCFwKgzKe-EdTz83r6wzhmOw/join\n\nInstagram ► https://www.instagram.com/triggeredinsaan\n\nFacebook ► https://www.facebook.com/realtriggeredinsaan\n\nOther Channel ► https://www.youtube.com/triggeredinsaan\n\nDiscord ► https://discord.gg/liveinsaan\n\nTwitter ► https://twitter.com/triggeredinsaan\n\nAbout Me ► My name is Nischay Malhan. I'm from Delhi and I'm an engineering student. Now I am pursuing youtube Full Time. I make family friendly clean comedy Gaming videos on this channel for everyone to enjoy with their family. You don't need earphones to watch my videos😂\n\nThanks For Reading😘"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT51M51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "933986",
+                "likeCount": "49343",
+                "favoriteCount": "0",
+                "commentCount": "2396"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Y9AsvCbnneO1EF-hOjFIZLG74Nw",
+            "id": "Gt_h2ezitOA",
+            "snippet": {
+                "publishedAt": "2025-07-24T00:33:00Z",
+                "channelId": "UCQeljbfXMX_5a2_KMXTkF-A",
+                "title": "Rakesh Barot | Dashama No Divaho | Lyrical Video | Gujarati  Song 2025 | Jhankar Music",
+                "description": "Jhankar Music Gujarati Presents Lyrical Video Song titled \"Dashama No Divaho\" Sung by Rakesh Barot, Penned by Dev Akash, & Music Composed by Ravi Nagar, Rahul Nadiya \nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCQeljbfXMX_5a2_KMXTkF-A/join  \n\n#rakeshbarot #gujaratinewsong #lyricalvideo #jhankarmusicgujarati\n\n🎧 𝐀𝐮𝐝𝐢𝐨 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : \n♪ Song : Dashama No Divaho\n♪ Singer : Rakesh Barot\n♪ Lyrics : Dev Akash\n♪ Music : Ravi Nagar, Rahul Nadiya\n♪ Producer : Maarss Movies and Music LLP\n♪ Music Label : Jhankar Music\n----------------------------\n📝 𝐋𝐲𝐫𝐢𝐜𝐬: Gujarati  👇 \n\nઢાળયો ઢાળયો ઘુઘરીયાળો પાટ..(૨)\nમારી દેવી દશામાં ને કાજ \nકયાર ની જોતાતા દિવાહા ની વાટ...(૨)\nઆયો દાડો દીવાહો નો આજ \nહો દેવી દશામાં ના વગડાવો વાજા \nઆયો દીવાહો વરસ્યા મેઘરાજા...(૨)\nકે લેવા કે લેવા મારે લેવા \nલેવા લેવા દશામાં ના વ્રત..(૨)\nદોરો બાંધજો જમણે હાથ \nહે ઢાળો ઢાળો ઘુઘરિયાળો પાટ ...(૨)\nમારી દેવી દશામાં ને કાજ ...(૨)\n\nહો લીલી પીળી કેળ નો બંધાવો માંડવો \nઆછી આછી ખજૂરી નો કરાવો છાંયડો \nહો તોરણ બાંધજો  તોડલે રૂડા સાથીયા પૂરજો \nદીવો દશામાં ને દિલ થી ધરજો \nહો મોરાગઢ વાળી ની માયા લાગી\nદશામાં ની ભક્તિ રુદિયે જાગી\nહે ધરજો ધરજો તમે ધરજો ભોજનીઓ થાળ..(૨)\nમારી દેવી દશામાં ને કાજ\nહે ઢાળો ઢાળો ઘુઘરિયાળો પાટ..(૨)\nમારી દેવી દશામાં ને કાજ...(૨)\n\nહો વ્રત કરો દિલ થી દશ દાડા રમજો\nદશામાંની આરતી હાજ સવાર કરજો\nહો મારી મોરવાળી માત હઉ નો હાભળશે સાદ\nભાવે કરો ભક્તિ માં ને લડાવાજો લાડ\nહો માડી  મળ્યા એની વેળા રે વળી \nસાચા સમરણ થી જાય સંકટ ટળી\nહે ગાવા હે ગાવા મારે ગાવા ગાવા દશામાં ના ગાન \nગાવા ગાવા દશામાં ના ગાન \nમાડી રાખશે હઉ નુ ધ્યાન\nહે દશામાં રાખશે હઉ નુ ધ્યાન.\nહો દશામાં રાખશે હઉ નુ ધ્યાન...\n----------------------------\n@𝐄𝐱𝐜𝐥𝐮𝐬𝐢𝐯𝐞𝐥𝐲 𝐨𝐧 𝐉𝐡𝐚𝐧𝐤𝐚𝐫 𝐌𝐮𝐬𝐢𝐜 𝐆𝐮𝐣𝐚𝐫𝐚𝐭𝐢 \n    𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐨𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥▶️\nhttps://www.youtube.com/@jhankarmusicgujarati\n\n𝐄𝐧𝐣𝐨𝐲 & 𝐒𝐭𝐚𝐲 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐖𝐢𝐭𝐡 𝐮𝐬 :\n👉𝐘𝐨𝐮𝐓𝐮𝐛𝐞 : https://www.youtube.com/@jhankarmusicgujarati\n👉𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/jhankarmusicgujarati...\n👉𝐓𝐰𝐢𝐭𝐭𝐞𝐫 : https://twitter.com/music_jhankar...\n👉𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : https://www.instagram.com/JhankarMusicGujarati... \n\nWelcome to JHANKAR MUSIC GUJRATI your favorite YouTube for premium Gujarati Song. Enjoy the latest Songs, Much More. Subscribe and stay updated to JHANKAR MUSIC GUJARATI  \n\nThanks for your Love and Support !!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Gt_h2ezitOA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Gt_h2ezitOA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Gt_h2ezitOA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Gt_h2ezitOA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Gt_h2ezitOA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jhankar Music Gujarati",
+                "tags": [
+                    "Dashama No Divaho",
+                    "New Dashama Song 2025",
+                    "Dashama Garba",
+                    "Dashamaa Arati",
+                    "Dashamani Vart Katha",
+                    "Dashamana Geet",
+                    "Dashama Video Song",
+                    "Dashama 2025",
+                    "New Gujarati Song",
+                    "Rakesh Barot",
+                    "New Rakesh Barot Song",
+                    "Rakesh Barot New Song",
+                    "Rakesh Barot New Dashama Song",
+                    "Rakesh Barot Dashama",
+                    "Rakesh Barot Na Geet",
+                    "New Song Rakesh Barot",
+                    "Rakesh Barot Video Song",
+                    "Rakesh Barot Song 2025",
+                    "Rakesh Barot Bhakti Song",
+                    "Rakesh Barot Garba",
+                    "Rakesh Barot Dashama No Divaho",
+                    "Momai Maa Song",
+                    "Dashama"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-IN",
+                "localized": {
+                    "title": "Rakesh Barot | Dashama No Divaho | Lyrical Video | Gujarati  Song 2025 | Jhankar Music",
+                    "description": "Jhankar Music Gujarati Presents Lyrical Video Song titled \"Dashama No Divaho\" Sung by Rakesh Barot, Penned by Dev Akash, & Music Composed by Ravi Nagar, Rahul Nadiya \nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCQeljbfXMX_5a2_KMXTkF-A/join  \n\n#rakeshbarot #gujaratinewsong #lyricalvideo #jhankarmusicgujarati\n\n🎧 𝐀𝐮𝐝𝐢𝐨 𝐂𝐫𝐞𝐝𝐢𝐭𝐬 : \n♪ Song : Dashama No Divaho\n♪ Singer : Rakesh Barot\n♪ Lyrics : Dev Akash\n♪ Music : Ravi Nagar, Rahul Nadiya\n♪ Producer : Maarss Movies and Music LLP\n♪ Music Label : Jhankar Music\n----------------------------\n📝 𝐋𝐲𝐫𝐢𝐜𝐬: Gujarati  👇 \n\nઢાળયો ઢાળયો ઘુઘરીયાળો પાટ..(૨)\nમારી દેવી દશામાં ને કાજ \nકયાર ની જોતાતા દિવાહા ની વાટ...(૨)\nઆયો દાડો દીવાહો નો આજ \nહો દેવી દશામાં ના વગડાવો વાજા \nઆયો દીવાહો વરસ્યા મેઘરાજા...(૨)\nકે લેવા કે લેવા મારે લેવા \nલેવા લેવા દશામાં ના વ્રત..(૨)\nદોરો બાંધજો જમણે હાથ \nહે ઢાળો ઢાળો ઘુઘરિયાળો પાટ ...(૨)\nમારી દેવી દશામાં ને કાજ ...(૨)\n\nહો લીલી પીળી કેળ નો બંધાવો માંડવો \nઆછી આછી ખજૂરી નો કરાવો છાંયડો \nહો તોરણ બાંધજો  તોડલે રૂડા સાથીયા પૂરજો \nદીવો દશામાં ને દિલ થી ધરજો \nહો મોરાગઢ વાળી ની માયા લાગી\nદશામાં ની ભક્તિ રુદિયે જાગી\nહે ધરજો ધરજો તમે ધરજો ભોજનીઓ થાળ..(૨)\nમારી દેવી દશામાં ને કાજ\nહે ઢાળો ઢાળો ઘુઘરિયાળો પાટ..(૨)\nમારી દેવી દશામાં ને કાજ...(૨)\n\nહો વ્રત કરો દિલ થી દશ દાડા રમજો\nદશામાંની આરતી હાજ સવાર કરજો\nહો મારી મોરવાળી માત હઉ નો હાભળશે સાદ\nભાવે કરો ભક્તિ માં ને લડાવાજો લાડ\nહો માડી  મળ્યા એની વેળા રે વળી \nસાચા સમરણ થી જાય સંકટ ટળી\nહે ગાવા હે ગાવા મારે ગાવા ગાવા દશામાં ના ગાન \nગાવા ગાવા દશામાં ના ગાન \nમાડી રાખશે હઉ નુ ધ્યાન\nહે દશામાં રાખશે હઉ નુ ધ્યાન.\nહો દશામાં રાખશે હઉ નુ ધ્યાન...\n----------------------------\n@𝐄𝐱𝐜𝐥𝐮𝐬𝐢𝐯𝐞𝐥𝐲 𝐨𝐧 𝐉𝐡𝐚𝐧𝐤𝐚𝐫 𝐌𝐮𝐬𝐢𝐜 𝐆𝐮𝐣𝐚𝐫𝐚𝐭𝐢 \n    𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐨𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥▶️\nhttps://www.youtube.com/@jhankarmusicgujarati\n\n𝐄𝐧𝐣𝐨𝐲 & 𝐒𝐭𝐚𝐲 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐖𝐢𝐭𝐡 𝐮𝐬 :\n👉𝐘𝐨𝐮𝐓𝐮𝐛𝐞 : https://www.youtube.com/@jhankarmusicgujarati\n👉𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/jhankarmusicgujarati...\n👉𝐓𝐰𝐢𝐭𝐭𝐞𝐫 : https://twitter.com/music_jhankar...\n👉𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 : https://www.instagram.com/JhankarMusicGujarati... \n\nWelcome to JHANKAR MUSIC GUJRATI your favorite YouTube for premium Gujarati Song. Enjoy the latest Songs, Much More. Subscribe and stay updated to JHANKAR MUSIC GUJARATI  \n\nThanks for your Love and Support !!"
+                },
+                "defaultAudioLanguage": "gu"
+            },
+            "contentDetails": {
+                "duration": "PT5M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "313712",
+                "likeCount": "6277",
+                "favoriteCount": "0",
+                "commentCount": "201"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "NcmCkTelT_JDNN7fUpZSImDzKS0",
+            "id": "0RYnNqgIi8M",
+            "snippet": {
+                "publishedAt": "2025-07-25T05:10:38Z",
+                "channelId": "UCo-NkhSDwu7uxim6CnJuNXw",
+                "title": "Jabardasth Mahidhar Review On War 2 Trailer | Jr Ntr | War 2 Trailer Review | War 2 Public Talk",
+                "description": "Watch Here Jabardasth Mahidhar Review on War 2 Trailer.\n#War2 #JabardasthMahidhar #JrNtr\n\nDharfi Youtube Link\nhttps://youtube.com/@dharficafe?si=vGZZJfxvfehJw40d\n\nDharfi Instagram Link\nhttps://www.instagram.com/dharficafe?igsh=MW5pYWUzcWtwOWUwNw==\n\nTelegram Channel Link \nhttps://t.me/MahidharZone\n\nInstagram Channel Link \nhttps://ig.me/j/AbZirCCYHu5PKREb/?igsh=YTl1eXI5NmMzd2Ny\n\nWhatsapp Channel Link \nhttps://whatsapp.com/channel/0029VavGlzl0lwgtEIy2ng1a",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0RYnNqgIi8M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0RYnNqgIi8M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0RYnNqgIi8M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0RYnNqgIi8M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0RYnNqgIi8M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mahidhar Vibes",
+                "tags": [
+                    "War 2",
+                    "Jabardasth Mahidhar Review on War 2 Trailer",
+                    "War 2 Trailer Review by Jabardasth Mahidhar",
+                    "Jabardasth Mahidhar War 2 Trailer Public Talk",
+                    "War 2 Trailer",
+                    "Jr Ntr",
+                    "War 2 Trailer Review",
+                    "War 2 Trailer Public Talk",
+                    "War 2 Trailer Rating",
+                    "War 2 Trailer Public Review",
+                    "War 2 Trailer Public Response",
+                    "Public Talk",
+                    "Review",
+                    "Jabardasth Mahidhar War 2 Trailer Review",
+                    "Jabardasth Mahidhar",
+                    "Rating",
+                    "Jabardasth",
+                    "Mahidar"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Jabardasth Mahidhar Review On War 2 Trailer | Jr Ntr | War 2 Trailer Review | War 2 Public Talk",
+                    "description": "Watch Here Jabardasth Mahidhar Review on War 2 Trailer.\n#War2 #JabardasthMahidhar #JrNtr\n\nDharfi Youtube Link\nhttps://youtube.com/@dharficafe?si=vGZZJfxvfehJw40d\n\nDharfi Instagram Link\nhttps://www.instagram.com/dharficafe?igsh=MW5pYWUzcWtwOWUwNw==\n\nTelegram Channel Link \nhttps://t.me/MahidharZone\n\nInstagram Channel Link \nhttps://ig.me/j/AbZirCCYHu5PKREb/?igsh=YTl1eXI5NmMzd2Ny\n\nWhatsapp Channel Link \nhttps://whatsapp.com/channel/0029VavGlzl0lwgtEIy2ng1a"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT9M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "33017",
+                "likeCount": "5420",
+                "favoriteCount": "0",
+                "commentCount": "494"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "i3GGoH_0EVlY8kPwrCek5_Cw-zQ",
+            "id": "qQ_28FeIMVs",
+            "snippet": {
+                "publishedAt": "2025-07-25T05:30:20Z",
+                "channelId": "UC4AB0_ectRryjCF_ugD0U8w",
+                "title": "Obito Teaser | Lost Savior | Free Fire MAX x NARUTO SHIPPUDEN | Free Fire MAX Official",
+                "description": "The world is drowning in despair... and Obito will end it all. Salvation or annihilation, the fate of the world lies in his hands. \n\nNew patch drops July 30 – Stay tuned!\n\n\nFollow us on -  \nInstagram: https://www.instagram.com/freefireindiaofficial/\nFacebook:  https://www.facebook.com/freefireIND\n\n#FreeFireMAX #FFMxNARUTOSHIPPUDEN #Naruto #NarutoShippuden #Obito",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qQ_28FeIMVs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qQ_28FeIMVs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qQ_28FeIMVs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qQ_28FeIMVs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qQ_28FeIMVs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Free Fire India Official",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Obito Teaser | Lost Savior | Free Fire MAX x NARUTO SHIPPUDEN | Free Fire MAX Official",
+                    "description": "The world is drowning in despair... and Obito will end it all. Salvation or annihilation, the fate of the world lies in his hands. \n\nNew patch drops July 30 – Stay tuned!\n\n\nFollow us on -  \nInstagram: https://www.instagram.com/freefireindiaofficial/\nFacebook:  https://www.facebook.com/freefireIND\n\n#FreeFireMAX #FFMxNARUTOSHIPPUDEN #Naruto #NarutoShippuden #Obito"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT38S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "99346",
+                "likeCount": "8372",
+                "favoriteCount": "0",
+                "commentCount": "378"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ccoeJ11_3Z9Dzb7X6V1t7KZt0es",
+            "id": "BVszrtZ3JsY",
+            "snippet": {
+                "publishedAt": "2025-07-23T21:28:21Z",
+                "channelId": "UCUAznPQcG-_ri9zuUXO6Kew",
+                "title": "Shivaa - Namami Shamishan | Namami Shamishan | Namami Shamishan | Namami Shamishan #namamishamishan",
+                "description": "Namami Shamishan | Namami Shamishan | Namami Shamishan | Namami Shamishan #namamishamishan",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BVszrtZ3JsY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BVszrtZ3JsY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BVszrtZ3JsY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BVszrtZ3JsY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BVszrtZ3JsY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ShivaaVEVO",
+                "tags": [
+                    "Shivaa",
+                    "9875603 Records DK2",
+                    "Blues"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Shivaa - Namami Shamishan | Namami Shamishan | Namami Shamishan | Namami Shamishan #namamishamishan",
+                    "description": "Namami Shamishan | Namami Shamishan | Namami Shamishan | Namami Shamishan #namamishamishan"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT5M26S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "259268",
+                "likeCount": "525",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "AdWNbi7vuS8rOQzOeJYba5VLtc4",
+            "id": "89Jwj9SXe4A",
+            "snippet": {
+                "publishedAt": "2025-07-24T14:25:45Z",
+                "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
+                "title": "SAAMRAJYA (KINGDOM) New Hindi Teaser | Vijay Deverakonda | Gowtam Tinnanuri | Anirudh Ravichander",
+                "description": "Presenting Official Hindi Theatrical Teaser of Upcoming New Mass Blockbuster Action Movie 2025 (साउथ मूवी, New Movies 2025, Hindi Movies 2025, South Movie 2025) \"SAAMRAJYA (KINGDOM)\" Starring Vijay Deverakonda, Satyadev, Bhagyashri Borse, Ramavath Chintu & Ayyappa P. Sharma.\n\n#Kingdom / #Saamrajya will roar in theatres Worldwide on July 31st! 👊🏾\nHindi Release by AA Films & ADWISE Movies\n\n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE\nhttp://bit.ly/ADMDMovies\n\nList Of Our Superhit South Indian Movies Dubbed In Hindi:\n⦿ Nishabdham  - https://youtu.be/09CqP60jM48\n⦿ Sindhubaadh - https://youtu.be/o4WZ7frYO5M\n⦿ Odela Railway Station - https://youtu.be/02asmpAu4o0\n⦿ Gangs of Godavari  - https://youtu.be/-JD-5y6b10U\n⦿ Harom Hara - https://youtu.be/q0RE5hfSJwY\n⦿ Kaatera - https://youtu.be/dOxNQiOUTps\n⦿ Bhagavanth Kesari - https://youtu.be/JlUIyT-NnT0\n\n\nMovie Credits\nMovie Name : Saamraajya\nDirected by Gowtam Tinnanuri\nWritten by Gowtam Tinnanuri & K.Vasanth Kumar (VKCU)\nProduced by S. Naga Vamsi, Sai Soujanya\nStarring Vijay Deverakonda, Satyadev, Bhagyashri Borse, Ramavath Chintu & Ayyappa P. Sharma\nCinematography Girish Gangadharan, Jomon T. John\nEdited by Naveen Nooli\nMusic by Anirudh Ravichander\nProduction Designer : Avinash Kolla\nCostume Designer : Neeraja Kona\nSong Choreographer : Vijay Binni\nAction Choreographer’s : Yannick Ben, Chethan D’Souza, Real Satish\nColorist : Ranga (Prasad Studio)\nSound Design : Sync Cinema\nVFX Supervisor :  Vasudeva Rao M \nCo – Director: Sri Vastav \nProduction Team: Girish Dasika, Uma Mahesh Karumanchi \nChief Associate Director: Basher\nDirection Team: B.V. Raveendra, Muthayam Vijay Kumar, Tirumala Reddy Akki, Mahesh Talluri, Geetha Vani Sapuri, Nallandula Jagadeesh, Vihari Mungamuri, Shrikaran Beecharaju, Akhil Raj, Parth Bane \nOnline Editor: Santosh Kiran \nPublicity Design: Aesthetic Kunjamma\nStill Photography: Prem\nA Sithara Entertainments Production\nin Association with Fortune Four Studios\nPresented by Srikara Studios\n\nKingdom - Release Date Teaser - Music Credits\n\nComposed, Arranged & Programmed by Anirudh Ravichander\nKeyboards, Synth & Rhythm Programmed by Anirudh Ravichander\nAdditional Rhythm Programmed by Shashank Vijay\nAdditional Music Programmed by Arish, Dan Kriston \nMusic Advisor - Ananthakrrishnan\nCreative Consultant - Sajith Satya\nSession Assistant - Shivakiran S\nRecorded at Albuquerque Records, Chennai. Engineered by Srinivasan M, Shivakiran S \nMixed by Vinay Sridhar & Srinivasan M at Albuquerque Records, Chennai\nMusic Coordinator - Velavan B\n\nFor more such movies\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Follow us on Twitter: www.twitter.com/AdwiseMediaD\n► Like us on Facebook: www.facebook.com/adwisemediadigital\n\n#vijaydevarakonda #Kingdom #Saamrajya #NewMovie2025 #SouthMovie2025",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/89Jwj9SXe4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/89Jwj9SXe4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/89Jwj9SXe4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/89Jwj9SXe4A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/89Jwj9SXe4A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "AD-WISE MEDIA ACTION MOVIEPLEX",
+                "tags": [
+                    "kingdom teaser",
+                    "kingdom teaser hindi",
+                    "kingdom teaser hindi vijay devarakonda",
+                    "vijay devarakonda movies",
+                    "vijay devarakonda new movie",
+                    "kingdom movie in hindi dubbed",
+                    "kingdom movie trailer",
+                    "samrajyam trailer",
+                    "samrajya teaser",
+                    "samrajya kingdom movie",
+                    "vijay devarakonda samrajya movie",
+                    "vijay devarakonda kingdom trailer",
+                    "vijay devarakonda kingdom",
+                    "kingdom movie",
+                    "new south indian movies dubbed in hindi 2025 full",
+                    "south new movie 2025 hindi dubbed",
+                    "New Movie 2025",
+                    "south movie",
+                    "SAAMRAJYA"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "SAAMRAJYA (KINGDOM) New Hindi Teaser | Vijay Deverakonda | Gowtam Tinnanuri | Anirudh Ravichander",
+                    "description": "Presenting Official Hindi Theatrical Teaser of Upcoming New Mass Blockbuster Action Movie 2025 (साउथ मूवी, New Movies 2025, Hindi Movies 2025, South Movie 2025) \"SAAMRAJYA (KINGDOM)\" Starring Vijay Deverakonda, Satyadev, Bhagyashri Borse, Ramavath Chintu & Ayyappa P. Sharma.\n\n#Kingdom / #Saamrajya will roar in theatres Worldwide on July 31st! 👊🏾\nHindi Release by AA Films & ADWISE Movies\n\n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE\nhttp://bit.ly/ADMDMovies\n\nList Of Our Superhit South Indian Movies Dubbed In Hindi:\n⦿ Nishabdham  - https://youtu.be/09CqP60jM48\n⦿ Sindhubaadh - https://youtu.be/o4WZ7frYO5M\n⦿ Odela Railway Station - https://youtu.be/02asmpAu4o0\n⦿ Gangs of Godavari  - https://youtu.be/-JD-5y6b10U\n⦿ Harom Hara - https://youtu.be/q0RE5hfSJwY\n⦿ Kaatera - https://youtu.be/dOxNQiOUTps\n⦿ Bhagavanth Kesari - https://youtu.be/JlUIyT-NnT0\n\n\nMovie Credits\nMovie Name : Saamraajya\nDirected by Gowtam Tinnanuri\nWritten by Gowtam Tinnanuri & K.Vasanth Kumar (VKCU)\nProduced by S. Naga Vamsi, Sai Soujanya\nStarring Vijay Deverakonda, Satyadev, Bhagyashri Borse, Ramavath Chintu & Ayyappa P. Sharma\nCinematography Girish Gangadharan, Jomon T. John\nEdited by Naveen Nooli\nMusic by Anirudh Ravichander\nProduction Designer : Avinash Kolla\nCostume Designer : Neeraja Kona\nSong Choreographer : Vijay Binni\nAction Choreographer’s : Yannick Ben, Chethan D’Souza, Real Satish\nColorist : Ranga (Prasad Studio)\nSound Design : Sync Cinema\nVFX Supervisor :  Vasudeva Rao M \nCo – Director: Sri Vastav \nProduction Team: Girish Dasika, Uma Mahesh Karumanchi \nChief Associate Director: Basher\nDirection Team: B.V. Raveendra, Muthayam Vijay Kumar, Tirumala Reddy Akki, Mahesh Talluri, Geetha Vani Sapuri, Nallandula Jagadeesh, Vihari Mungamuri, Shrikaran Beecharaju, Akhil Raj, Parth Bane \nOnline Editor: Santosh Kiran \nPublicity Design: Aesthetic Kunjamma\nStill Photography: Prem\nA Sithara Entertainments Production\nin Association with Fortune Four Studios\nPresented by Srikara Studios\n\nKingdom - Release Date Teaser - Music Credits\n\nComposed, Arranged & Programmed by Anirudh Ravichander\nKeyboards, Synth & Rhythm Programmed by Anirudh Ravichander\nAdditional Rhythm Programmed by Shashank Vijay\nAdditional Music Programmed by Arish, Dan Kriston \nMusic Advisor - Ananthakrrishnan\nCreative Consultant - Sajith Satya\nSession Assistant - Shivakiran S\nRecorded at Albuquerque Records, Chennai. Engineered by Srinivasan M, Shivakiran S \nMixed by Vinay Sridhar & Srinivasan M at Albuquerque Records, Chennai\nMusic Coordinator - Velavan B\n\nFor more such movies\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Follow us on Twitter: www.twitter.com/AdwiseMediaD\n► Like us on Facebook: www.facebook.com/adwisemediadigital\n\n#vijaydevarakonda #Kingdom #Saamrajya #NewMovie2025 #SouthMovie2025"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "316633",
+                "likeCount": "14493",
+                "favoriteCount": "0",
+                "commentCount": "420"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pbOyBj_v8z5zd6ktwiPw7aC89lI",
+            "id": "GEiuY6I6vpQ",
+            "snippet": {
+                "publishedAt": "2025-07-24T10:00:12Z",
+                "channelId": "UClqifC6Nd7v-IfTqce4k62A",
+                "title": "From Poor to Rich in Garden Civilization in Minecraft..",
+                "description": "in this video i am playing grow a garden in minecraft..\n\nnew mod - https://www.curseforge.com/minecraft/mc-mods/crazyvillagers-forge\nDiscord join karo :- https://discord.gg/65fWdrGCuK\nfollow marlo :-  https://www.instagram.com/carrydepie?igsh=MWljaWl6aHpqcnVyaQ==\nemail - carrydepiebusiness@gmail.com\n\n#minecraft \n#minecraftsurvivalgameplay \n#carrydepie",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GEiuY6I6vpQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GEiuY6I6vpQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GEiuY6I6vpQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GEiuY6I6vpQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GEiuY6I6vpQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carry Depie",
+                "tags": [
+                    "minecraft",
+                    "bedrock",
+                    "minecraft villager troll",
+                    "villager troll mine",
+                    "minecraft trolling video",
+                    "Minecraft",
+                    "Minecraft gameplay",
+                    "Minecraft roleplay",
+                    "Minecraft mods",
+                    "minecraft house",
+                    "Minecraft trolling",
+                    "Minecraft stealing",
+                    "Minecraft trolling in",
+                    "Minecraft tricking",
+                    "Minecraft diamonds",
+                    "Minecraft illegal",
+                    "carry depie",
+                    "jethiya",
+                    "bagha",
+                    "carrydp",
+                    "carry depie minecraft",
+                    "build competiton",
+                    "wishing well",
+                    "ben10",
+                    "minecraft zoo",
+                    "mining civilization",
+                    "brainrot",
+                    "tung tung sahur",
+                    "minecraft civilization"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "From Poor to Rich in Garden Civilization in Minecraft..",
+                    "description": "in this video i am playing grow a garden in minecraft..\n\nnew mod - https://www.curseforge.com/minecraft/mc-mods/crazyvillagers-forge\nDiscord join karo :- https://discord.gg/65fWdrGCuK\nfollow marlo :-  https://www.instagram.com/carrydepie?igsh=MWljaWl6aHpqcnVyaQ==\nemail - carrydepiebusiness@gmail.com\n\n#minecraft \n#minecraftsurvivalgameplay \n#carrydepie"
+                },
+                "defaultAudioLanguage": "hi"
+            },
+            "contentDetails": {
+                "duration": "PT24M3S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "567430",
+                "likeCount": "9484",
+                "favoriteCount": "0",
+                "commentCount": "566"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GTnFBGsZ-9mfCO9gjGGDWjc5RIw",
+            "id": "-zgLz7v561Q",
+            "snippet": {
+                "publishedAt": "2025-07-24T22:30:06Z",
+                "channelId": "UCKSdfQjHpMxLd2MjSQB0K2w",
+                "title": "ಶ್ರಾವಣ ಮಾಸ ವಿಶೇಷ | ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ | Bhagyada Lakshmi Baramma | Lakshmi Devi Songs",
+                "description": "ಶ್ರಾವಣ ಮಾಸ ವಿಶೇಷ | ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ | Bhagyada Lakshmi Baramma | Lakshmi Devi Songs\n\nSongs In This Video\n\n00:00 Bhagyada Lakshmi Baramma - ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ\n05:09 Sumanasa Vanditha - ಸುಮನಸ ವಂದಿತಾ \n10:16 Ele Belathingala - ಎಲೆ ಬೆಳದಿಂಗಳ\n\n#AstalakshmiSongs\n#Sumanasavanditha\n#SravanamasaSpecialsongs\n#Sravanamasam\n#LakshmiDeviPatalu\n#LakshmiDeviSongs\n#LakshmiDevi\n#BhaktiSongsKannada",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-zgLz7v561Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-zgLz7v561Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-zgLz7v561Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-zgLz7v561Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-zgLz7v561Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ಭಕ್ತಿ ಹಾಡುಗಳು ಕನ್ನಡ - Bhakti Songs Kannada",
+                "tags": [
+                    "ಶ್ರಾವಣ ಮಾಸ ವಿಶೇಷ",
+                    "ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ",
+                    "Bhagyada Lakshmi Baramma",
+                    "Lakshmi Devi Songs",
+                    "bhagyada lakshmi baramma",
+                    "bhagyada lakshmi baramma song",
+                    "bhagyada lakshmi baramma dance",
+                    "bhagyada lakshmi baramma lyrics",
+                    "bhagyada lakshmi baramma video song",
+                    "bhagyada lakshmi baaramma",
+                    "bhagyada lakshmi baramma with lyrics",
+                    "bhagyada lakshmi baramma kannada song",
+                    "bhagyada lakshmi baramma vidyabhushana",
+                    "bhagyada lakshmi baramma song in kannada",
+                    "bhagyada lakshmi baramma song with lyrics"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "ಶ್ರಾವಣ ಮಾಸ ವಿಶೇಷ | ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ | Bhagyada Lakshmi Baramma | Lakshmi Devi Songs",
+                    "description": "ಶ್ರಾವಣ ಮಾಸ ವಿಶೇಷ | ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ | Bhagyada Lakshmi Baramma | Lakshmi Devi Songs\n\nSongs In This Video\n\n00:00 Bhagyada Lakshmi Baramma - ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ\n05:09 Sumanasa Vanditha - ಸುಮನಸ ವಂದಿತಾ \n10:16 Ele Belathingala - ಎಲೆ ಬೆಳದಿಂಗಳ\n\n#AstalakshmiSongs\n#Sumanasavanditha\n#SravanamasaSpecialsongs\n#Sravanamasam\n#LakshmiDeviPatalu\n#LakshmiDeviSongs\n#LakshmiDevi\n#BhaktiSongsKannada"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT15M39S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "39112",
+                "likeCount": "267",
+                "favoriteCount": "0",
+                "commentCount": "13"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FwFBfDh2JoF2JjAccZVpVugDCSg",
+            "id": "81hjMdjJnaI",
+            "snippet": {
+                "publishedAt": "2025-07-25T01:00:13Z",
+                "channelId": "UCmsVIJCsReM1vuc7pe4MOcw",
+                "title": "Paraya Baap | Official Trailer | Yash Kumarr & Nidhi Mishra | Bhojpuri Movie 2025",
+                "description": "जन्म देने वाले से बड़ा जीवन देने वाला होता है। फिल्म \"पराया बाप\" का फर्स्ट लुक ट्रेलर\n\nभोजपुरी सुपरस्टार यश कुमार की नई फिल्म \"पराया बाप\" का धमाकेदार ऑफिशियल ट्रेलर 2025 अब आ चुका है। यह फिल्म रिश्तों, बलिदान और इंसानियत की सच्चाई को दिखाने वाली एक भावनात्मक कहानी है। इस फिल्म के डायरेक्टर रुस्तम अली चिश्ती है। इस फिल्म में मुख्य भूमिका में यश कुमार और अन्य कई कलाकार है।\n\n◾ निर्माता - यश कुमार इन्टरटेनमेन्ट व निधि मिश्रा\n◾ निर्देशक - रूस्तम अली चिश्ती\n◾ संगीत - साजन मिश्रा\n◾ गीत - राजेश मिश्रा, धरम हिन्दुस्तानी\n◾ कथा - यश कुमार\n◾ पटकथा - यश कुमार व एस. के. चौहान\n◾ संवाद - मनोज गुप्ता\n◾ छायांकन - जहाँगीर सय्यद\n◾ संकलन - रंजीत प्रसाद\n◾ नृत्य - प्रवीण शेलार\n◾ कार्यकारी निर्माता - शैलेन्द्र सिंह\n◾ कला - रविन्द्रनाथ गुप्ता\n◾ प्रोमो एडिटर - एम. फैसल रियाज़\n◾ कास्टयूम - विद्या-विष्णु\n◾ पोस्ट प्रोडक्शन - टी. आर. पी. स्टूडियोज\n◾ पार्श्व संगीत - राजा यादव\n◾ डी आई - स्वआनंद करणेकर\n◾ सह निर्देशक - स्वाती यादव\n◾ स्टिल - पंकज सक्सेना\n◾ डिजाइन - नसु\n\n📝 कहानी:\nफिल्म पराया बाप एक संवेदनशील और भावनात्मक कहानी को पर्दे पर उतारती है। यह कहानी रिश्तों, बलिदान, और इंसानियत के उस सच को उजागर करती है जहां जन्म देने वाले से बड़ा जीवन देने वाला माना जाता है। फिल्म में यश कुमार की दमदार अदाकारी और निधि मिश्रा की शानदार परफॉर्मेंस दर्शकों को बांधकर रखेगी।\n\n📌 फिल्म के मुख्य आकर्षण:\n▪ यश कुमार का पावरफुल किरदार और डायलॉग्स\n▪ दिल छू लेने वाला संगीत और कर्णप्रिय गाने\n▪ एक मजबूत सामाजिक संदेश देने वाली कहानी\n▪ भोजपुरी इंडस्ट्री के टॉप स्टार्स की बेहतरीन एक्टिंग\n\n#ParayaBaapTrailer #YashKumarr #BhojpuriMovie2025 #YashKumarEntertainment #ParayaBaap #BhojpuriTrailer #ParayaBaapFirstLook #YashKumarNewMovie #BhojpuriCinema #NidhiMishra #BhojpuriFilmNews #BhojpuriMovies #ParayaBapMovie #YashKumarOfficial\n\nYash Kumarr Mishra Bhojpuri Movie, Yash Kumar, Yash Kumar Mishra, Yash Kumar Ke Film, Yash Kumar New Song, Yash Kumar New Movie, Yash Kumar Ke Picture, Bhojpuri Film News 2025, Latest Bhojpuri Poster, New Bhojpuri Movie Poster 2025, Paraya Bap Bhojpuri Movie Poster, Paraya Bap Bhojpuri Movie Star Cast, Paraya Bap Film Story, Paraya Bap First Look Out, Paraya Bap Movie Actor Name, Paraya Bap Star Cast, Upcoming Bhojpuri Movie, Yash Kumar New Movies, पराया बाप फर्स्ट लुक, भोजपुरी फिल्म 2025, भोजपुरी फिल्म फर्स्ट लुक 2025, भोजपुरी मूवी पराया बाप\n\n——————————————————————————\nContact For Business Inquiry: \nEmail For Movie Related Inquiries On : yashkumarentertainment@gmail.com\nEmail For Music Related Inquiries On : mail.yashkumarmusic@gmail.com\n\nFor Booking Of Live Shows & Events Of Yash Kumarr And Nidhi Mishra Aka Nidhi Jha Contact Us On: Contact - yashkumarr12@gmail.com\n\n►Yash Kumar Entertainment:\nAlso You Can:\nLIKE/FOLLOW us on Facebook : \nhttps://www.facebook.com/yashkumarentertainment\nFOLLOW us on Twitter : \nhttps://twitter.com/YKEIndia\nFOLLOW us on Instagram : \nhttps://www.instagram.com/yashkumarentertainment\n\n►Yash Kumar Music:\nAlso You Can:\nLIKE/FOLLOW us on Facebook : \nhttps://www.facebook.com/YashKumarMusicOfficial\nFOLLOW us on Twitter : \nhttps://twitter.com/YashKumar_Music\nFOLLOW us on Instagram : \nhttps://www.instagram.com/YashKumarMusic\n\nIf You like the video don't forget to share with others & also share your views through comments.\nStay connected with us!!!\n►Subscribe : https://www.youtube.com/@YashKumarEntertainment\n\nOur other YouTube channels, please Subscribe:\nYash Kumarr Official : https://www.youtube.com/@YashKumarr \nNidhi Mishra | Nidhi Jha Official : https://www.youtube.com/@NidhiJhaOfficial \nYash Kumar Music : https://www.youtube.com/@YashKumarMusicOfficial\n\n© All Copyrights Reserved to Yash Kumar Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/81hjMdjJnaI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/81hjMdjJnaI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/81hjMdjJnaI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/81hjMdjJnaI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/81hjMdjJnaI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Yash Kumar Entertainment",
+                "tags": [
+                    "paraya baap trailer",
+                    "paraya baap bhojpuri movie",
+                    "yash kumarr new movie",
+                    "paraya baap first look",
+                    "bhojpuri film 2025",
+                    "yash kumar bhojpuri film",
+                    "paraya baap yash kumar",
+                    "paraya bap trailer",
+                    "paraya bap bhojpuri film",
+                    "bhojpuri movie trailer 2025",
+                    "yash kumar entertainment",
+                    "paraya baap official trailer",
+                    "paraya baap movie story",
+                    "bhojpuri upcoming movies 2025",
+                    "bhojpuri new movie",
+                    "bhojpuri movie new",
+                    "bhojpuri film",
+                    "new bhojpuri movie",
+                    "bhojpuri cinema",
+                    "bhojpuri films",
+                    "baap paraya",
+                    "movie"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Paraya Baap | Official Trailer | Yash Kumarr & Nidhi Mishra | Bhojpuri Movie 2025",
+                    "description": "जन्म देने वाले से बड़ा जीवन देने वाला होता है। फिल्म \"पराया बाप\" का फर्स्ट लुक ट्रेलर\n\nभोजपुरी सुपरस्टार यश कुमार की नई फिल्म \"पराया बाप\" का धमाकेदार ऑफिशियल ट्रेलर 2025 अब आ चुका है। यह फिल्म रिश्तों, बलिदान और इंसानियत की सच्चाई को दिखाने वाली एक भावनात्मक कहानी है। इस फिल्म के डायरेक्टर रुस्तम अली चिश्ती है। इस फिल्म में मुख्य भूमिका में यश कुमार और अन्य कई कलाकार है।\n\n◾ निर्माता - यश कुमार इन्टरटेनमेन्ट व निधि मिश्रा\n◾ निर्देशक - रूस्तम अली चिश्ती\n◾ संगीत - साजन मिश्रा\n◾ गीत - राजेश मिश्रा, धरम हिन्दुस्तानी\n◾ कथा - यश कुमार\n◾ पटकथा - यश कुमार व एस. के. चौहान\n◾ संवाद - मनोज गुप्ता\n◾ छायांकन - जहाँगीर सय्यद\n◾ संकलन - रंजीत प्रसाद\n◾ नृत्य - प्रवीण शेलार\n◾ कार्यकारी निर्माता - शैलेन्द्र सिंह\n◾ कला - रविन्द्रनाथ गुप्ता\n◾ प्रोमो एडिटर - एम. फैसल रियाज़\n◾ कास्टयूम - विद्या-विष्णु\n◾ पोस्ट प्रोडक्शन - टी. आर. पी. स्टूडियोज\n◾ पार्श्व संगीत - राजा यादव\n◾ डी आई - स्वआनंद करणेकर\n◾ सह निर्देशक - स्वाती यादव\n◾ स्टिल - पंकज सक्सेना\n◾ डिजाइन - नसु\n\n📝 कहानी:\nफिल्म पराया बाप एक संवेदनशील और भावनात्मक कहानी को पर्दे पर उतारती है। यह कहानी रिश्तों, बलिदान, और इंसानियत के उस सच को उजागर करती है जहां जन्म देने वाले से बड़ा जीवन देने वाला माना जाता है। फिल्म में यश कुमार की दमदार अदाकारी और निधि मिश्रा की शानदार परफॉर्मेंस दर्शकों को बांधकर रखेगी।\n\n📌 फिल्म के मुख्य आकर्षण:\n▪ यश कुमार का पावरफुल किरदार और डायलॉग्स\n▪ दिल छू लेने वाला संगीत और कर्णप्रिय गाने\n▪ एक मजबूत सामाजिक संदेश देने वाली कहानी\n▪ भोजपुरी इंडस्ट्री के टॉप स्टार्स की बेहतरीन एक्टिंग\n\n#ParayaBaapTrailer #YashKumarr #BhojpuriMovie2025 #YashKumarEntertainment #ParayaBaap #BhojpuriTrailer #ParayaBaapFirstLook #YashKumarNewMovie #BhojpuriCinema #NidhiMishra #BhojpuriFilmNews #BhojpuriMovies #ParayaBapMovie #YashKumarOfficial\n\nYash Kumarr Mishra Bhojpuri Movie, Yash Kumar, Yash Kumar Mishra, Yash Kumar Ke Film, Yash Kumar New Song, Yash Kumar New Movie, Yash Kumar Ke Picture, Bhojpuri Film News 2025, Latest Bhojpuri Poster, New Bhojpuri Movie Poster 2025, Paraya Bap Bhojpuri Movie Poster, Paraya Bap Bhojpuri Movie Star Cast, Paraya Bap Film Story, Paraya Bap First Look Out, Paraya Bap Movie Actor Name, Paraya Bap Star Cast, Upcoming Bhojpuri Movie, Yash Kumar New Movies, पराया बाप फर्स्ट लुक, भोजपुरी फिल्म 2025, भोजपुरी फिल्म फर्स्ट लुक 2025, भोजपुरी मूवी पराया बाप\n\n——————————————————————————\nContact For Business Inquiry: \nEmail For Movie Related Inquiries On : yashkumarentertainment@gmail.com\nEmail For Music Related Inquiries On : mail.yashkumarmusic@gmail.com\n\nFor Booking Of Live Shows & Events Of Yash Kumarr And Nidhi Mishra Aka Nidhi Jha Contact Us On: Contact - yashkumarr12@gmail.com\n\n►Yash Kumar Entertainment:\nAlso You Can:\nLIKE/FOLLOW us on Facebook : \nhttps://www.facebook.com/yashkumarentertainment\nFOLLOW us on Twitter : \nhttps://twitter.com/YKEIndia\nFOLLOW us on Instagram : \nhttps://www.instagram.com/yashkumarentertainment\n\n►Yash Kumar Music:\nAlso You Can:\nLIKE/FOLLOW us on Facebook : \nhttps://www.facebook.com/YashKumarMusicOfficial\nFOLLOW us on Twitter : \nhttps://twitter.com/YashKumar_Music\nFOLLOW us on Instagram : \nhttps://www.instagram.com/YashKumarMusic\n\nIf You like the video don't forget to share with others & also share your views through comments.\nStay connected with us!!!\n►Subscribe : https://www.youtube.com/@YashKumarEntertainment\n\nOur other YouTube channels, please Subscribe:\nYash Kumarr Official : https://www.youtube.com/@YashKumarr \nNidhi Mishra | Nidhi Jha Official : https://www.youtube.com/@NidhiJhaOfficial \nYash Kumar Music : https://www.youtube.com/@YashKumarMusicOfficial\n\n© All Copyrights Reserved to Yash Kumar Entertainment"
+                },
+                "defaultAudioLanguage": "bh"
+            },
+            "contentDetails": {
+                "duration": "PT4M49S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "29897",
+                "likeCount": "1289",
+                "favoriteCount": "0",
+                "commentCount": "75"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TBi3DUlGMaobcpvc4cYepTK6oYk",
+            "id": "FJ7w1CkTZZk",
+            "snippet": {
+                "publishedAt": "2025-07-24T16:46:16Z",
+                "channelId": "UCdNNnOR060yCLk_iMyaZvSg",
+                "title": "Free Fire Max Live With Never Fold Gaming || Road To 1 Million🎯|| #freefirelive #shortsfeed",
+                "description": "🔊So , Hi Guys I'm Sahu and Welcome to our channel Never Fold Gaming❤️\u200d🔥💪!!\n\nDon't forget to Subscribe our Channel🫶. !!\n\nMy Instagram : sahilxspeed\n#freefirelive\n#freefirelivestream\n#GuildTest\n#GarenaFreeFire\n#ffive\n#liveff\n#Trending\n#shorts\n#Top\n#Rankpush\n#grandmaster\n\nfree fire live,free fire live now,ff live,free fire,garena free fire,free fire max,free fire max live,ff live hindi,free fire hindi,free fire hindi live,live now free fire,free fire live today,free fire rank push live,free fire battle royale,free fire br rank push,rank push br,ff rank push br,free fire live rank push,rank push live free fire,garena free fire max,free fire shorts,free fire india,free fire bd server,live free fire,guild \n🖐 Tags key word -\n\nGarena Free Fire\nGarena Free Fire Live Stream\nFree Fire MAX\nFree Fire MAX Live\nFree Fire Live\nFreeFire Live\nFree Fire Live stream\nFree Fire Live india\nFree Firie Live Bangladesh\nFree Fire Live Nepal\nFree Fire Live AO VIVO\nlive stream free fire\nlive freefire\nlive ff\nff live\nff live stream\nFree Fire Mobile Live\nFree Fire Livestream\nMy Discord : https://discord.gg/Ky3kerSf\nFree Fire Live gameplay\nFree Fire Live Rank Push\nFree Fire Live Stream\nFree Fire Rank Push\nRank Push Free Fire\nFree Fire New Live Video\nFree Fire Live now\nFree Fire Live Today\nFree Fire New Event Live\nFree Fire Vertical Live\nFree Fire Short Live\nfree fire\nfree fire max\nfree fire india\nfree fire download\nfree fire max download\nfree fire india launch date\nfree fire bundle\nfree fire best sensitivity\nfree fire cake\nfree fire download for pc\nfree fire emote\nfree fire esports\nfree fire event\nfree fire emulator\nfree fire evo gun skin\nfree fire gameplay\nfree fire kab launch hua tha\nfree fire launch date\nfree fire live\nfree fire update\nfree fire unban date\nfree fire videos\nfree fire vs pubg\nfree fire v badge code\nfree fire video game\nfree fire v badge\nfree fire zombie samurai\nfree fire live stream thumbnail\nfree fire live thumbnail\nfree fire live stream\nfree fire live today\nfree fire live photo\nfree fire live action\nfree fire live ajju bhai\nfree fire live br rank push\nfree fire live custom\nfree fire live cs rank push\nfree fire live cs rank \nfree fire live event\nfree fire live giveaway\nfree fire live gameplay\nfree fire live guild test\nfree fire live in tamil\nfree fire live india\nfree fire live in telugu\nfree fire live today india\nfree fire ki live video\nfree fire ka live\nfree fire ki live\nROAD TO 100K 🔴 \nLike || Share || Subscribe\n\n\n\n#freefirelive\n#freefirelivestream\n#GuildTest\n#GarenaFreeFire\n#ffive\n#liveff\n#Trending\n#shorts\n#Top\n#Rankpush\n#grandmaster\n\n\n#freefire #highlights #freefireindia #freefirevincenzo #freefire2bgamer #freefireGyangaming #freefiretotalgaming #freefireruokff #AJJUBHAI #tondegamer #nonstopgaming  #classy #classylive #classyfreefire #nonstop #gamer\n#indiangamer #nonstoplive #ajjubhailive #gyangaming #gyanlive #gyangaminglive #2bgamer #carryminati #scout #mortal #triggeredinsaan #freefremontage #freefirebestplayer #freefiresports #esports #abhishekmalhan",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FJ7w1CkTZZk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FJ7w1CkTZZk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FJ7w1CkTZZk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FJ7w1CkTZZk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FJ7w1CkTZZk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Never Fold Gaming",
+                "tags": [
+                    "freefirelive",
+                    "livegiveaway",
+                    "freefiremax",
+                    "top1grandmaster",
+                    "freefireliveguildtest"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Free Fire Max Live With Never Fold Gaming || Road To 1 Million🎯|| #freefirelive #shortsfeed",
+                    "description": "🔊So , Hi Guys I'm Sahu and Welcome to our channel Never Fold Gaming❤️\u200d🔥💪!!\n\nDon't forget to Subscribe our Channel🫶. !!\n\nMy Instagram : sahilxspeed\n#freefirelive\n#freefirelivestream\n#GuildTest\n#GarenaFreeFire\n#ffive\n#liveff\n#Trending\n#shorts\n#Top\n#Rankpush\n#grandmaster\n\nfree fire live,free fire live now,ff live,free fire,garena free fire,free fire max,free fire max live,ff live hindi,free fire hindi,free fire hindi live,live now free fire,free fire live today,free fire rank push live,free fire battle royale,free fire br rank push,rank push br,ff rank push br,free fire live rank push,rank push live free fire,garena free fire max,free fire shorts,free fire india,free fire bd server,live free fire,guild \n🖐 Tags key word -\n\nGarena Free Fire\nGarena Free Fire Live Stream\nFree Fire MAX\nFree Fire MAX Live\nFree Fire Live\nFreeFire Live\nFree Fire Live stream\nFree Fire Live india\nFree Firie Live Bangladesh\nFree Fire Live Nepal\nFree Fire Live AO VIVO\nlive stream free fire\nlive freefire\nlive ff\nff live\nff live stream\nFree Fire Mobile Live\nFree Fire Livestream\nMy Discord : https://discord.gg/Ky3kerSf\nFree Fire Live gameplay\nFree Fire Live Rank Push\nFree Fire Live Stream\nFree Fire Rank Push\nRank Push Free Fire\nFree Fire New Live Video\nFree Fire Live now\nFree Fire Live Today\nFree Fire New Event Live\nFree Fire Vertical Live\nFree Fire Short Live\nfree fire\nfree fire max\nfree fire india\nfree fire download\nfree fire max download\nfree fire india launch date\nfree fire bundle\nfree fire best sensitivity\nfree fire cake\nfree fire download for pc\nfree fire emote\nfree fire esports\nfree fire event\nfree fire emulator\nfree fire evo gun skin\nfree fire gameplay\nfree fire kab launch hua tha\nfree fire launch date\nfree fire live\nfree fire update\nfree fire unban date\nfree fire videos\nfree fire vs pubg\nfree fire v badge code\nfree fire video game\nfree fire v badge\nfree fire zombie samurai\nfree fire live stream thumbnail\nfree fire live thumbnail\nfree fire live stream\nfree fire live today\nfree fire live photo\nfree fire live action\nfree fire live ajju bhai\nfree fire live br rank push\nfree fire live custom\nfree fire live cs rank push\nfree fire live cs rank \nfree fire live event\nfree fire live giveaway\nfree fire live gameplay\nfree fire live guild test\nfree fire live in tamil\nfree fire live india\nfree fire live in telugu\nfree fire live today india\nfree fire ki live video\nfree fire ka live\nfree fire ki live\nROAD TO 100K 🔴 \nLike || Share || Subscribe\n\n\n\n#freefirelive\n#freefirelivestream\n#GuildTest\n#GarenaFreeFire\n#ffive\n#liveff\n#Trending\n#shorts\n#Top\n#Rankpush\n#grandmaster\n\n\n#freefire #highlights #freefireindia #freefirevincenzo #freefire2bgamer #freefireGyangaming #freefiretotalgaming #freefireruokff #AJJUBHAI #tondegamer #nonstopgaming  #classy #classylive #classyfreefire #nonstop #gamer\n#indiangamer #nonstoplive #ajjubhailive #gyangaming #gyanlive #gyangaminglive #2bgamer #carryminati #scout #mortal #triggeredinsaan #freefremontage #freefirebestplayer #freefiresports #esports #abhishekmalhan"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT1H37M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "470356",
+                "likeCount": "12182",
+                "favoriteCount": "0"
+            }
+        }
+    ]
+}

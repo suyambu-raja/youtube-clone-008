@@ -1,0 +1,189 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+  overflow-x: hidden;
+}
+
+
+#root {
+  padding: 0;
+  margin: 0%;
+  background: white;
+}
+
+
+
+.App-light .light {
+  background: white;
+  color: rgb(7, 7, 7);
+}
+
+.App-dark .dark {
+  background: black;
+  color: white;
+}
+
+.App-dark .card {
+  background: #242323;
+  color: white;
+}
+
+.App-dark .card2 {
+  background: #eae4e4;
+  color: rgb(3, 3, 3);
+}
+
+.App-dark .card3 {
+  color: rgb(195, 189, 189);
+}
+
+.App-dark:hover .card4:hover {
+  background: #c7c3c3;
+  color: rgb(2, 2, 2);
+}
+
+.main-container-for-slidebar-and-content {
+  display: flex;
+  column-gap: 0px;
+  margin-top: 80px;
+}
+
+.slideBar-container {
+  margin: 0px;
+
+}
+
+.slide-content-container {
+  margin: 0px;
+
+}
+
+@media (max-width: 750px) {
+  .main-container-for-slidebar-and-content {
+    display: flex;
+    width: 100%;
+  }
+
+  .slide-content-container {
+    width: 80%;
+    margin-right: 0px;
+  }
+
+  .slideBar-container {
+    max-width: 9%;
+    margin-right: 0px;
+  }
+}
+
+
+.loading-container {
+  background: black;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.loading-process-container {
+
+  width: 80px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(174, 172, 172);
+  border-radius: 50%;
+  animation: base 5s linear infinite;
+}
+
+.loading-process {
+  width: 70px;
+  height: 70px;
+  transition: ease;
+  background: rgb(219, 1, 1);
+  animation: load 3s linear infinite;
+  border-radius: 10px;
+  position: relative;
+  margin-top: -80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error {
+  background: rgb(235, 231, 231);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+@keyframes load {
+
+  10% {
+    transform: rotate(60deg);
+    margin-top: -120px;
+  }
+
+  30% {
+    transform: rotate(120deg);
+    margin-top: -80px;
+  }
+
+  50% {
+    transform: rotate(180deg);
+    margin-top: -120px;
+  }
+
+  70% {
+    transform: rotate(240deg);
+    margin-top: -80px;
+  }
+
+  90% {
+    transform: rotate(300deg);
+    margin-top: -120px;
+  }
+
+  100% {
+    transform: rotate(360deg);
+    margin-top: -80px;
+  }
+
+}
+
+
+@keyframes base {
+
+  10% {
+    width: 110px;
+  }
+
+  30% {
+    width: 80px;
+  }
+
+  50% {
+    width: 110px;
+  }
+
+
+  70% {
+    width: 80px;
+  }
+
+  80% {
+    width: 110px;
+  }
+
+  100% {
+    width: 80px;
+  }
+
+}

@@ -1,0 +1,678 @@
+.video-page-main-container {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.video-and-comment-container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.videoPlayer-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+    row-gap: 7px;
+}
+
+.video-box {
+    border-radius: 10px;
+    width: 920px;
+    height: 500px;
+    margin-top: 0px;
+
+}
+
+.video-title-content {
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.views-hrs-content {
+    margin-top: 0px;
+}
+
+.views-hrs-content {
+    font-size: 14px;
+    color: gray;
+    margin-top: 5px;
+    margin-top: 10px;
+}
+
+
+.profile-image {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12), 0 1.5px 4px rgba(0, 0, 0, 0.10);
+    margin-top: 14px;
+
+}
+
+.channel-name-for-video {
+    color: rgb(15, 13, 13);
+    font-weight: 700;
+}
+
+.profile-and-buttons-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.channel-details {
+    display: flex;
+    column-gap: 15px;
+    align-items: center;
+}
+
+.channel-and-subscribers-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    margin-top: 7px;
+
+}
+
+.total-subscribers {
+    color: grey;
+    font-size: 0.8rem;
+}
+
+.subscribe-btn {
+    background: black;
+    border-radius: 18px;
+    width: 110px;
+    color: white;
+    height: 35px;
+    font-size: 16px;
+
+    card2 {
+        background: rgb(11, 11, 11);
+        color: rgb(241, 232, 232);
+    }
+
+}
+
+.like-share-download-btn-container {
+    display: flex;
+    column-gap: 15px;
+}
+
+.like-and-unlike-btn {
+    background: rgb(232, 229, 229);
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12), 0 1.5px 4px rgba(0, 0, 0, 0.10);
+}
+
+.share-btn {
+    background: rgb(236, 234, 234);
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12), 0 1.5px 4px rgba(0, 0, 0, 0.10);
+}
+
+.download-btn {
+    background: rgb(236, 234, 234);
+    width: 125px;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12), 0 1.5px 4px rgba(0, 0, 0, 0.10);
+}
+
+hr {
+    height: 26px;
+}
+
+.share-icon {
+    font-size: 1.6rem;
+}
+
+.download-icon {
+    font-size: 1.5rem;
+}
+
+.like-icon {
+    font-size: 1.5rem;
+}
+
+.dislike-icon {
+    font-size: 1.5rem;
+}
+
+@media (forced-colors: active),
+(max-width:1200px) {
+    .video-page-main-container {
+        row-gap: 50px;
+        flex-direction: column;
+    }
+
+    .video-and-comment-container {
+        flex-direction: column;
+        margin-right: 10px;
+        width: 90%;
+    }
+
+    .videoPlayer-container {
+        margin-left: 20px;
+        row-gap: 7px;
+        margin-right: 10px;
+    }
+
+    .video-box {
+        width: 100%;
+        height: 63vh;
+        margin-top: 0px;
+
+    }
+}
+
+@media (forced-colors: active),
+(max-width:1050px) {
+    .video-page-main-container {
+        row-gap: 50px;
+        flex-direction: column;
+    }
+
+    .video-and-comment-container {
+        flex-direction: column;
+        height: auto;
+        margin-right: 10px;
+        width: 100%;
+    }
+
+    .videoPlayer-container {
+        margin-left: 20px;
+        row-gap: 7px;
+        margin-right: 10px;
+    }
+
+    .video-box {
+        width: 89%;
+        height: 52vh;
+        margin-top: 0px;
+
+    }
+
+    .video-title-content {
+        font-size: 1.4rem;
+    }
+
+
+    .views-hrs-content {
+        font-size: 1rem;
+    }
+
+    .profile-and-buttons-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .channel-details {
+        display: flex;
+        column-gap: 15px;
+        align-items: center;
+    }
+
+    .channel-and-subscribers-container {
+        display: flex;
+        flex-direction: column;
+        row-gap: 8px;
+        margin-top: 7px;
+    }
+
+}
+
+@media (forced-colors: active),
+(max-width:850px) {
+    .video-and-comment-container {
+        width: 99%;
+    }
+
+    .video-title-content {
+        font-size: 1.2rem;
+    }
+
+    .video-box {
+        height: 41vh;
+        width: 93%;
+    }
+
+    .video-title-content {
+        font-size: 1.4rem;
+    }
+
+    .views-hrs-content {
+        font-size: 1rem;
+    }
+
+}
+
+
+@media (forced-colors: active),
+(max-width:750px) {
+    .video-and-comment-container {
+        width: 97%;
+    }
+
+    .video-box {
+        height: 39vh;
+        width: 93%;
+    }
+
+    .video-title-content {
+        font-size: 1rem;
+    }
+
+
+    .views-hrs-content {
+        font-size: 1.1rem;
+    }
+
+    .profile-and-buttons-container {
+        width: 99%;
+        flex-direction: column;
+        align-items: flex-start;
+        row-gap: 20px;
+    }
+
+    .channel-details {
+        column-gap: 1rem;
+        width: 70%;
+    }
+
+    .channel-and-subscribers-container {
+        row-gap: 0.9rem;
+        margin-top: 10px;
+        width: 40%
+    }
+
+
+    .profile-image {
+        width: 45px;
+        height: 45px;
+    }
+
+    .channel-name-for-video {
+        font-size: 1.2rem;
+    }
+
+    .total-subscribers {
+        font-size: 0.9rem;
+    }
+
+    .subscribe-btn {
+        width: 105px;
+        height: 4vh;
+        font-size: 1.2rem;
+
+    }
+
+    .like-share-download-btn-container {
+        display: flex;
+        column-gap: 1.3rem;
+    }
+
+}
+
+
+
+@media (forced-colors: active),
+(max-width:550px) {
+
+    .video-and-comment-container {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .video-box {
+        height: 32vh;
+        width: 93%;
+    }
+
+
+    .views-hrs-content {
+        font-size: 1rem;
+    }
+
+    .profile-and-buttons-container {
+        width: 99%;
+        flex-direction: column;
+        align-items: flex-start;
+        row-gap: 20px;
+    }
+
+    .channel-details {
+        column-gap: 1rem;
+        width: 70%;
+    }
+
+    .channel-and-subscribers-container {
+        row-gap: 0.9rem;
+        margin-top: 10px;
+        width: 40%
+    }
+
+
+    .profile-image {
+        width: 45px;
+        height: 45px;
+    }
+
+    .channel-name-for-video {
+        font-size: 1rem;
+    }
+
+    .total-subscribers {
+        font-size: 0.9rem;
+    }
+
+    .subscribe-btn {
+        width: 105px;
+        height: 4vh;
+    }
+
+
+}
+
+
+@media (forced-colors: active),
+(max-width:480px) {
+    .video-and-comment-container {
+        width: 100%;
+        margin-right: 0px;
+    }
+
+    .video-box {
+        height: 28vh;
+        width: 93%;
+    }
+
+
+    .video-title-content {
+        font-size: 0.9rem;
+        font-weight: 550;
+    }
+
+
+    .views-hrs-content {
+        font-size: 0.9rem;
+    }
+
+    .profile-and-buttons-container {
+        width: 99%;
+        flex-direction: column;
+        align-items: flex-start;
+        row-gap: 20px;
+    }
+
+    .channel-details {
+        column-gap: 1rem;
+        width: 100%;
+
+    }
+
+    .channel-and-subscribers-container {
+        row-gap: 0.9rem;
+        margin-top: 10px;
+        width: 40%;
+        display:flex;
+
+    }
+
+    .profile-image {
+        width: 40px;
+        height: 40px;
+    }
+
+    .channel-name-for-video {
+        font-size: 0.8rem;
+    }
+
+    .total-subscribers {
+        font-size: 0.7rem;
+    }
+
+    .subscribe-btn {
+        width: 80px;
+        height: 3vh;
+        margin-left: 0px;
+        font-size: 0.8rem
+    }
+
+    .like-share-download-btn-container {
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 20px;
+        width: 100%;
+    }
+
+    .like-and-unlike-btn {
+        width: 23%;
+        height: 30px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+    }
+
+    .share-btn {
+        width: 21%;
+        height: 30px;
+        font-size: 0.8rem;
+    }
+
+    .download-btn {
+        width: 22%;
+        height: 30px;
+        font-size: 0.8rem;
+    }
+
+    hr {
+        height: 1.3rem;
+    }
+
+    .share-icon {
+        font-size: 1.1rem;
+    }
+
+    .download-icon {
+        font-size: 1rem;
+    }
+
+    .like-icon {
+        font-size: 1rem;
+    }
+
+    .dislike-icon {
+        font-size: 1rem;
+
+    }
+
+
+}
+
+
+
+@media (forced-colors: active),
+(max-width:400px) {
+
+    .video-page-main-container {
+        width: 100%;
+        margin-right: 0px;
+
+    }
+
+    .video-and-comment-container {
+        width: 100%;
+        background: white;
+        margin-right: 0px;
+    }
+
+    .video-box {
+        height: 23vh;
+        width: 93%;
+
+    }
+
+
+    .video-title-content {
+        font-size: 0.9rem;
+    }
+
+
+    .html-container {
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+        margin-right: 0px;
+    }
+
+    .like-share-download-btn-container {
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 20px;
+        width: 100%;
+    }
+
+    .like-and-unlike-btn {
+        width: 23%;
+        height: 30px;
+        font-size: 0.7rem;
+    }
+
+    .share-btn {
+        width: 21%;
+        height: 30px;
+        font-size: 0.8rem;
+    }
+
+    .download-btn {
+        width: 24%;
+        height: 30px;
+        font-size: 0.8rem;
+    }
+
+    hr {
+        height: 1rem;
+    }
+
+    .share-icon {
+        font-size: 1rem;
+    }
+
+    .download-icon {
+        font-size: 1rem;
+    }
+
+    .like-icon {
+        font-size: 1rem;
+    }
+
+    .dislike-icon {
+        font-size: 1rem;
+
+    }
+
+
+}
+
+
+
+@media (forced-colors: active),
+(max-width:350px) {
+    .video-box {
+        height: 21vh;
+        width: 97%;
+    }
+
+    .video-title-content {
+        font-size: 0.8rem;
+    }
+
+    .views-hrs-content {
+        font-size: 0.7rem;
+    }
+
+    .channel-and-subscribers-container {
+        row-gap: 0.6rem;
+        margin-top: 10px;
+        width: 55%;
+    }
+
+
+    .profile-image {
+        width: 34px;
+        height: 34px;
+    }
+
+    .channel-name-for-video {
+        font-size: 0.7rem;
+    }
+
+    .total-subscribers {
+        font-size: 0.6rem;
+    }
+
+    .subscribe-btn {
+        width: 60px;
+        height: 2vh;
+        font-size: 0.6rem
+    }
+
+    .like-and-unlike-btn {
+        width: 24%;
+        height: 24px;
+        font-size: 0.6rem;
+    }
+
+    .share-btn {
+        width: 18%;
+        height: 24px;
+        font-size: 0.6rem;
+    }
+
+    .download-btn {
+        width: 24%;
+        height: 25px;
+        font-size: 0.6rem;
+    }
+
+    hr {
+        height: 0.7rem;
+    }
+
+    .share-icon {
+        font-size: 0.8rem;
+    }
+
+    .download-icon {
+         font-size: 0.8rem;
+    }
+
+    .like-icon {
+         font-size: 0.8rem;
+    }
+
+    .dislike-icon {
+         font-size: 0.8rem;
+
+    }
+
+
+}

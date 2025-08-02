@@ -1,0 +1,256 @@
+.recommented-videos-main-container {
+    width: 490px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+
+}
+
+.recom-video-container {
+    display: flex;
+    flex-direction: row;
+    width: 490px;
+    height: 130px;
+    column-gap: 10px;
+}
+
+.recom-video-img {
+    width: 200px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.recom-video-title {
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.recom-channel-name {
+    font-size: 14px;
+    color: gray;
+    margin-top: 7px;
+}
+
+.recom-views-hrs {
+    font-size: 14px;
+    color: gray;
+    margin-top: 5px;
+}
+
+.post-link-style {
+    text-decoration: none;
+    color: black;
+}
+
+@media (forced-colors: active),
+(max-width:1200px) {
+
+    .recommented-videos-main-container {
+        width: 90%;
+        row-gap: 120px;
+        margin-left: 50px;
+        height: auto;
+
+    }
+
+    .recom-video-container {
+        width: 100%;
+        height: 20vh;
+        column-gap: 1rem;
+    }
+
+    .recom-video-img {
+        width: 37vw;
+        height: 34vh;
+    }
+
+    .recom-video-title-and-views-container {
+        display: flex;
+        flex-direction: column;
+        row-gap: 0.3rem;
+    }
+
+    .recom-video-title {
+        font-size: 1.1rem;
+    }
+
+    .recom-channel-name {
+        font-size: 1.1rem;
+    }
+
+    .recom-views-hrs {
+        font-size: 1.1rem;
+    }
+
+}
+
+@media (forced-colors: active),
+(max-width:1050px) {
+
+    .recommented-videos-main-container {
+        width: 90%;
+        row-gap: 60px;
+        margin-left: 50px;
+        height: auto;
+
+    }
+
+    .recom-video-container {
+        width: 100%;
+        height: 20vh;
+        column-gap: 1rem;
+    }
+
+    .recom-video-img {
+        width: 38vw;
+        height: 25vh;
+    }
+
+    .recom-video-title-and-views-container {
+        display: flex;
+        flex-direction: column;
+        row-gap: 0.3rem;
+    }
+
+    .recom-video-title {
+        font-size: 1.1rem;
+    }
+
+    .recom-channel-name {
+        font-size: 1.1rem;
+    }
+
+    .recom-views-hrs {
+        font-size: 1.1rem;
+    }
+
+}
+
+
+@media (forced-colors: active),
+(max-width:750px) {
+
+    .recommented-videos-main-container {
+        width: 90%;
+        row-gap: 60px;
+        margin-left: 30px;
+        height: auto;
+
+    }
+
+    .recom-video-container {
+        width: 100%;
+        height: 20vh;
+        column-gap: 1rem;
+    }
+
+    .recom-video-img {
+        width: 38vw;
+        height: 22vh;
+    }
+
+
+}
+
+
+@media (max-width:550px) {
+
+    .recommented-videos-main-container {
+        width: 90%;
+        row-gap: 30px;
+        height: auto;
+        overflow: hidden;
+    }
+
+    .recom-video-container {
+        width: 100%;
+        height: 20vh;
+        column-gap: 1rem;
+        margin-right: 10px;
+    }
+
+    .recom-video-img {
+        width: 42vw;
+        height: 18vh;
+    }
+
+
+    .recom-video-title {
+        font-size: 0.9rem;
+        font-weight: 500;
+    }
+
+    .recom-channel-name {
+        font-size: 0.7rem;
+    }
+
+    .recom-views-hrs {
+        font-size: 0.7rem;
+    }
+
+}
+
+
+/* 
+@media (forced-colors: active),
+(max-width:400px) {
+
+    .recommented-videos-main-container {
+        row-gap: 40px;
+        margin-left: 15px;
+        height: auto;
+        width: 105%;
+    }
+
+    .recom-video-container {
+        width: 100%;
+        height: 18vh;
+        column-gap: 1rem;
+    }
+
+    .recom-video-img {
+        width: 45vw;
+        height: 20vh;
+    }
+
+
+} */
+
+
+@media (forced-colors: active),
+(max-width:380px) {
+
+    .recommented-videos-main-container {
+        row-gap: 20px;
+        margin-left: 15px;
+        height: auto;
+        width: 115%;
+    }
+
+    .recom-video-container {
+        width: 80%;
+        height: 15vh;
+        column-gap: 1rem;
+    }
+
+    .recom-video-img {
+        width: 45vw;
+        height: 14vh;
+    }
+
+    .recom-video-title {
+        font-size: 0.7rem;
+        font-weight: 500;
+    }
+
+    .recom-channel-name {
+        font-size: 0.7rem;
+    }
+
+    .recom-views-hrs {
+        font-size: 0.7rem;
+    }
+
+
+}
