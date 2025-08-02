@@ -46,7 +46,7 @@ function App() {
           </div>
         </div>
       </div>}
-      {fetchError && <div className="message-container error">
+      {fetchError && <div className="error">
         {`Error: ${fetchError}`}
       </div>}
       {!loading && !fetchError &&
