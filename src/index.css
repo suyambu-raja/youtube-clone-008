@@ -78,7 +78,7 @@ body {
 }
 
 
-.loading-container {
+.message-container {
   background: black;
   width: 100vw;
   height: 100vh;
@@ -115,7 +115,7 @@ body {
 }
 
 .error {
-  background: rgb(235, 231, 231);
+  color: rgb(235, 231, 231);
   width: 100vw;
   height: 100vh;
   display: flex;
