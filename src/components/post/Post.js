@@ -10,6 +10,9 @@ const post = ({post, slideBar, }) => {
         <Link to={`/post/${post.id}`} className="post-link-style">
           <div className={slideBar ? "video-container light dark" : "big-video-container light dark"} 
           key={post.id}
+              onClick={()=>{
+             window.scrollTo({ top: 0, behavior: 'smooth' });
+          }}
           >
             <div className={slideBar ? "img-container" : "big-img-container"}> 
               <img src={snippet.thumbnails.standard.url} alt="video thumbnail" className={slideBar ? "video-img" : "big-video-img"} />
