@@ -347,6 +347,7 @@
         margin-top: -20px;
         padding-top: 2px;
         position: fixed;
+             margin-left:-10px;
     }
 
     .large-slide {
