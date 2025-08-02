@@ -13,7 +13,7 @@ const Home = ({ posts, slideBar, setAutoPlay }) => {
         post={post}
         slideBar={slideBar}
         setAutoPlay={setAutoPlay}
-      />))) : <p>no posts</p>}
+      />))) : <p>No posts</p>}
     </main>
   )
 }
