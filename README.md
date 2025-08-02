@@ -3,7 +3,7 @@
 A dynamic and responsive **YouTube Clone** web app built with **React.js**, fetching real-time content from the **YouTube Data API**. The UI mimics the experience of the original YouTube platform, complete with category filtering, video playback, and theming options.
 
 ## 🌐 Live Demo
-👉 [Visit Project]([https://your-netlify-link.com](https://youtube-clone-800.netlify.app/))
+👉 [Visit Project]((https://youtube-clone-800.netlify.app/))
 
 ## 📦 Tech Stack
 - React.js
@@ -28,4 +28,5 @@ A dynamic and responsive **YouTube Clone** web app built with **React.js**, fetc
 - 🔁 Recommended Videos Sidebar
 - ⏳ Loading Animations while fetching data
 - 📱 Fully Responsive Design (mobile, tablet, desktop)
+
 
