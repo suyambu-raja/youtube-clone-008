@@ -525,12 +525,15 @@ hr {
         margin-right: 0px;
     }
 
-    .video-box {
-        height: 23vh;
-        width: 93%;
-
+    .videoPlayer-container {
+        margin-left: 7px;
     }
 
+    .video-box {
+        height: 23vh;
+        width: 100%;
+
+    }
 
     .video-title-content {
         font-size: 0.9rem;
@@ -598,7 +601,7 @@ hr {
 (max-width:350px) {
     .video-box {
         height: 21vh;
-        width: 97%;
+        width: 100%;
     }
 
     .video-title-content {
