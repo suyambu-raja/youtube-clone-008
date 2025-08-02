@@ -12,7 +12,11 @@ const RecommentedVideo = ({ posts, postId }) => {
             {recommentedPosts.length ?
                 (recommentedPosts.map((post) => (
                     <Link to={`/post/${post.id}`} className="post-link-style"  key={post.id}>
-                        <div className="recom-video-container light dark">
+                        <div className="recom-video-container light dark" 
+                                        onClick={()=>{
+                                           window.scrollTo({ top: 0, behavior: 'smooth' });
+                                         }}
+                                      >
                             <div className="recom-img-container">
                                 <img src={post.snippet.thumbnails.standard.url} alt="video thumbnail" className="recom-video-img" />
                             </div>
