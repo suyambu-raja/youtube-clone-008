@@ -8,7 +8,8 @@ import { LiaDownloadSolid } from "react-icons/lia";
 import VideoComments from '../../components/VideoComments/VideoComments'
 import RecommentedVideo from '../../components/recommentedVideo/RecommentedVideo'
 import profile1 from '../../assets/OIP.jpeg'
-import { formatNumber, convertYouTubeDuration } from '../../components/ViewsCalculation/ViewsCalcultion'
+import { formatNumber} from '../../components/ViewsCalculation/ViewsCalcultion'
+import moment from 'moment'
 
 
 const VideoPage = ({ posts }) => {
@@ -29,7 +30,7 @@ const VideoPage = ({ posts }) => {
             />
 
             <div className="video-title-content">{post.snippet.title}</div>
-            <div className="views-hrs-content card3">{formatNumber(post.statistics.viewCount)} views . {convertYouTubeDuration(post.contentDetails.duration)} ago</div>
+            <div className="views-hrs-content card3">{formatNumber(post.statistics.viewCount)} views . {(moment(post.snippet.publishedAt)).fromNow()} ago</div>
             <div className="profile-and-buttons-container">
               <div className="channel-details">
                 <img src={profile1} alt="profile" className="profile-image" />
