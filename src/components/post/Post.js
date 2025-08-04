@@ -1,6 +1,7 @@
 import React from 'react'
 import {Link}  from 'react-router-dom'
-import {formatNumber, convertYouTubeDuration} from './../ViewsCalculation/ViewsCalcultion'
+import {formatNumber} from './../ViewsCalculation/ViewsCalcultion'
+import moment from 'moment'
 
 const post = ({post, slideBar, }) => {
   const {snippet , statistics,  contentDetails} = post
@@ -20,7 +21,7 @@ const post = ({post, slideBar, }) => {
             <div className="video-title-and-views-container">
               <h3 className="video-title">{snippet.title}</h3>
               <p className="channel-name card3">{snippet.channelTitle}</p>
-              <div className="views-hrs card3">{formatNumber(statistics.viewCount)} views . {convertYouTubeDuration(contentDetails.duration)} ago</div>
+              <div className="views-hrs card3">{formatNumber(statistics.viewCount)} views . {(moment(snippet.publishedAt)).fromNow()} ago</div>
             </div>
           </div> </Link>
     </div>
