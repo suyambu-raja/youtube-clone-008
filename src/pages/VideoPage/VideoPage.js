@@ -30,7 +30,7 @@ const VideoPage = ({ posts }) => {
             />
 
             <div className="video-title-content">{post.snippet.title}</div>
-            <div className="views-hrs-content card3">{formatNumber(post.statistics.viewCount)} views . {(moment(post.snippet.publishedAt)).fromNow()} ago</div>
+            <div className="views-hrs-content card3">{formatNumber(post.statistics.viewCount)} views . {(moment(post.snippet.publishedAt)).fromNow()}</div>
             <div className="profile-and-buttons-container">
               <div className="channel-details">
                 <img src={profile1} alt="profile" className="profile-image" />
