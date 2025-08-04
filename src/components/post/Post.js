@@ -4,7 +4,7 @@ import {formatNumber} from './../ViewsCalculation/ViewsCalcultion'
 import moment from 'moment'
 
 const post = ({post, slideBar, }) => {
-  const {snippet , statistics,  contentDetails} = post
+  const {snippet , statistics} = post
   
   return (
     <div>
