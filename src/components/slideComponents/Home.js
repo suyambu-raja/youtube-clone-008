@@ -13,7 +13,7 @@ const Home = ({ posts, slideBar, setAutoPlay }) => {
         post={post}
         slideBar={slideBar}
         setAutoPlay={setAutoPlay}
-      />))) : <h3 className="error" style={{margin:"-50px -100px"}}>Youtube Api quota over for today</h3>}
+      />))) : <h3 className="error light dark" style={{margin:"-50px -100px"}}>Youtube Api quota over for today</h3>}
     </main>
   )
 }
