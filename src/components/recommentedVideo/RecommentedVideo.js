@@ -24,7 +24,7 @@ const RecommentedVideo = ({ posts, postId }) => {
                             <div className="recom-video-title-and-views-container">
                                 <h3 className="recom-video-title">{post.snippet.title}</h3>
                                 <p className="recom-channel-name  card3">{post.snippet.channelTitle}</p>
-                                <div className="recom-views-hrs card3">{formatNumber(post.statistics.viewCount)} views. {(moment(post.snippet.publishedAt)).fromNow()} ago</div>
+                                <div className="recom-views-hrs card3">{formatNumber(post.statistics.viewCount)} views. {(moment(post.snippet.publishedAt)).fromNow()}</div>
                             </div>
                         </div>
                     </Link>
