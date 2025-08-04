@@ -1,7 +1,8 @@
 import React from 'react'
 import './recommentedVideo.css'
 import { Link } from 'react-router-dom'
-import {formatNumber, convertYouTubeDuration} from '../ViewsCalculation/ViewsCalcultion'
+import {formatNumber} from '../ViewsCalculation/ViewsCalcultion'
+import moment from 'moment'
 
 
 const RecommentedVideo = ({ posts, postId }) => {
@@ -23,7 +24,7 @@ const RecommentedVideo = ({ posts, postId }) => {
                             <div className="recom-video-title-and-views-container">
                                 <h3 className="recom-video-title">{post.snippet.title}</h3>
                                 <p className="recom-channel-name  card3">{post.snippet.channelTitle}</p>
-                                <div className="recom-views-hrs card3">{formatNumber(post.statistics.viewCount)} views. {convertYouTubeDuration(post.contentDetails.duration)} ago</div>
+                                <div className="recom-views-hrs card3">{formatNumber(post.statistics.viewCount)} views. {(moment(post.snippet.publishedAt)).fromNow()} ago</div>
                             </div>
                         </div>
                     </Link>
