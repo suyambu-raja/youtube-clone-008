@@ -46,7 +46,7 @@ function App() {
           </div>
         </div>
       </div>}
-      {fetchError && <div className="error">
+      {fetchError && <div className="error light dark">
         {`Error: ${fetchError}`}
       </div>}
       {!loading && !fetchError &&
